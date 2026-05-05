@@ -21,13 +21,26 @@ LATIN_LIT = (
     / "data"
 )
 
+URN_PATH = (
+    Path(__file__).resolve().parent
+    / "src"
+    / "citation_resolution"
+    / "static"
+    / "json"
+    / "urn.json"
+)
+INVERTED_URN_PATH = (
+    Path(__file__).resolve().parent
+    / "src"
+    / "citation_resolution"
+    / "static"
+    / "json"
+    / "inverted_urn.json"
+)
+
 
 def find_xml_files(dir: Path):
     return [f for f in dir.glob("./**/*.xml") if f.name != "__cts__.xml"]
-
-
-def parse_file(f: Path):
-    return etree.parse(f)
 
 
 def find_citations(corpus, prefix):
@@ -37,7 +50,7 @@ def find_citations(corpus, prefix):
     citation_map = {}
 
     for f in files:
-        tree = parse_file(f)
+        tree = etree.parse(f)
 
         citation_map[f.name] = {}
 
@@ -72,9 +85,33 @@ def find_citations(corpus, prefix):
             writer.writerow(row)
 
 
+def invert_urns():
+    with open(URN_PATH) as f:
+        urns_to_textgroup_works = json.load(f)
+
+    inverted_urns = {}
+
+    for k, v in urns_to_textgroup_works.items():
+        author = v["author"].lower()
+        title = v["title"].lower()
+
+        textgroup = inverted_urns.get(author)
+
+        if textgroup is None:
+            inverted_urns[author] = {}
+            textgroup = inverted_urns[author]
+
+        work = textgroup.get(title)
+
+        if work is None:
+            textgroup[title] = ".".join(k.split(".")[0:-1])
+
+    with open(INVERTED_URN_PATH, "w") as f:
+        json.dump(inverted_urns, f)
+
+
 def main():
-    find_citations(GREEK_LIT, "greek")
-    find_citations(LATIN_LIT, "latin")
+    print(resolve("Dem. 19.326"))
 
 
 if __name__ == "__main__":

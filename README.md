@@ -8,6 +8,10 @@ repositories of the Perseus Digital Library.
 The goal is eventually to resolve these citations as hyperlinks between
 works.
 
+## Copyright notices
+
+- [./src/citation_resolution/static/json/urn.json](./src/citation_resolution/static/json/urn.json) is copyright The Perseids Project and licensed under the MIT license.
+
 ## LICENSE
 
 MIT License
