@@ -16,8 +16,10 @@ HANDOFF.md
 hucit.trig
 *.log.json
 greek-authors.json
+!kb/seeds/open/greek-authors.json
 greek-citation_map.json
 latin-authors.json
+!kb/seeds/open/latin-authors.json
 latin-citation_map.json
 TODO.md
 

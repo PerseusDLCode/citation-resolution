@@ -1,0 +1,167 @@
+{
+  "source": "latin-authors",
+  "license": "CC0",
+  "note": "Conventional classical-studies abbreviations derived from latin-authors.json. Covers primarily Latin authors with some Greek.",
+  "entries": [
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0006",
+      "author_abbrev": "Eur.",
+      "author_name": "Euripides"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0011",
+      "author_abbrev": "Soph.",
+      "author_name": "Sophocles"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0012",
+      "author_abbrev": "Hom.",
+      "author_name": "Homer"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0019",
+      "author_abbrev": "Aristoph.",
+      "author_name": "Aristophanes"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0526",
+      "author_abbrev": "J.",
+      "author_name": "Josephus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0551",
+      "author_abbrev": "App.",
+      "author_name": "Appian"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0119",
+      "author_abbrev": "Pl.",
+      "author_name": "Plautus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0134",
+      "author_abbrev": "Ter.",
+      "author_name": "Terence"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0448",
+      "author_abbrev": "Caes.",
+      "author_name": "Caesar"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0472",
+      "author_abbrev": "Catull.",
+      "author_name": "Catullus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0474",
+      "author_abbrev": "Cic.",
+      "author_name": "Cicero"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0550",
+      "author_abbrev": "Lucr.",
+      "author_name": "Lucretius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0631",
+      "author_abbrev": "Sal.",
+      "author_name": "Sallust"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0690",
+      "author_abbrev": "Verg.",
+      "author_name": "Vergil"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0893",
+      "author_abbrev": "Hor.",
+      "author_name": "Horace"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0959",
+      "author_abbrev": "Ov.",
+      "author_name": "Ovid"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0969",
+      "author_abbrev": "Pers.",
+      "author_name": "Persius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1002",
+      "author_abbrev": "Quint.",
+      "author_name": "Quintilian"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1044",
+      "author_abbrev": "Vell.",
+      "author_name": "Velleius Paterculus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1254",
+      "author_abbrev": "Gell.",
+      "author_name": "Gellius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1276",
+      "author_abbrev": "Juv.",
+      "author_name": "Juvenal"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1294",
+      "author_abbrev": "Mart.",
+      "author_name": "Martial"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1351",
+      "author_abbrev": "Tac.",
+      "author_name": "Tacitus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0069",
+      "author_abbrev": "Caes.",
+      "author_name": "Caesar"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0121",
+      "author_abbrev": "Eutr.",
+      "author_name": "Eutropius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0152",
+      "author_abbrev": "Hor.",
+      "author_name": "Horace"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0181",
+      "author_abbrev": "Lucr.",
+      "author_name": "Lucretius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0192",
+      "author_abbrev": "Mart.",
+      "author_name": "Martial"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0216",
+      "author_abbrev": "Ov.",
+      "author_name": "Ovid"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0218",
+      "author_abbrev": "Pall.",
+      "author_name": "Palladius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0225",
+      "author_abbrev": "Pers.",
+      "author_name": "Persius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0273",
+      "author_abbrev": "Tac.",
+      "author_name": "Tacitus"
+    }
+  ]
+}

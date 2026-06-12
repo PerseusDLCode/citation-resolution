@@ -1,0 +1,572 @@
+{
+  "source": "greek-authors",
+  "license": "CC0",
+  "note": "Conventional classical-studies abbreviations derived from greek-authors.json. Covers both Greek and Latin authors.",
+  "entries": [
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0001",
+      "author_abbrev": "Apollon.",
+      "author_name": "Apollonius Rhodius"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0002",
+      "author_abbrev": "Thgn.",
+      "author_name": "Theognis"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0003",
+      "author_abbrev": "Thuc.",
+      "author_name": "Thucydides"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0004",
+      "author_abbrev": "D. L.",
+      "author_name": "Diogenes Laertius"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0005",
+      "author_abbrev": "Theoc.",
+      "author_name": "Theocritus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0006",
+      "author_abbrev": "Eur.",
+      "author_name": "Euripides"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0007",
+      "author_abbrev": "Plut.",
+      "author_name": "Plutarch"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0008",
+      "author_abbrev": "Ath.",
+      "author_name": "Athenaeus of Naucratis"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0009",
+      "author_abbrev": "Sapph.",
+      "author_name": "Sappho"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0010",
+      "author_abbrev": "Isoc.",
+      "author_name": "Isocrates"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0011",
+      "author_abbrev": "Soph.",
+      "author_name": "Sophocles"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0013",
+      "author_abbrev": "HH.",
+      "author_name": "Homeric Hymns"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0013",
+      "author_abbrev": "Hom.",
+      "author_name": "Homer"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0014",
+      "author_abbrev": "Dem.",
+      "author_name": "Demosthenes"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0016",
+      "author_abbrev": "Hdt.",
+      "author_name": "Herodotus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0019",
+      "author_abbrev": "Aristoph.",
+      "author_name": "Aristophanes"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0020",
+      "author_abbrev": "Hes.",
+      "author_name": "Hesiodus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0026",
+      "author_abbrev": "Aeschin.",
+      "author_name": "Aeschines"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0027",
+      "author_abbrev": "Andoc.",
+      "author_name": "Andocides"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0027",
+      "author_abbrev": "Hsch.",
+      "author_name": "Hesychius"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0029",
+      "author_abbrev": "Din.",
+      "author_name": "Dinarchus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0030",
+      "author_abbrev": "Hyp.",
+      "author_name": "Hyperides"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0032",
+      "author_abbrev": "Ps. Xen.",
+      "author_name": "Pseudo-Xenophon"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0032",
+      "author_abbrev": "Xen.",
+      "author_name": "Xenophon"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0033",
+      "author_abbrev": "Pind.",
+      "author_name": "Pindar"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0057",
+      "author_abbrev": "Gal.",
+      "author_name": "Galen"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0058",
+      "author_abbrev": "Aen.",
+      "author_name": "Aeneas Tacticus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0059",
+      "author_abbrev": "Plat.",
+      "author_name": "Plato"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0060",
+      "author_abbrev": "Diod.",
+      "author_name": "Diodorus Siculus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0074",
+      "author_abbrev": "Arr.",
+      "author_name": "Arrian"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0081",
+      "author_abbrev": "D. H.",
+      "author_name": "Dionysius Halicarnassensis"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0085",
+      "author_abbrev": "Aeschylus.",
+      "author_name": "Aeschylus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0086",
+      "author_abbrev": "Aristot.",
+      "author_name": "Aristotle"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0093",
+      "author_abbrev": "Thphr.",
+      "author_name": "Theophrastus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0099",
+      "author_abbrev": "Strab.",
+      "author_name": "Strabo"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0199",
+      "author_abbrev": "Bacchyl.",
+      "author_name": "Bacchylides"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0222",
+      "author_abbrev": "Eratosth.",
+      "author_name": "Eratosthenes"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0231",
+      "author_abbrev": "Eleg. Alex. Adesp",
+      "author_name": "Elegiaca Alexandrina Adespota"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0232",
+      "author_abbrev": "Archil.",
+      "author_name": "Archilochus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0232",
+      "author_abbrev": "Hdn.",
+      "author_name": "Herodian"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0233",
+      "author_abbrev": "Hippon.",
+      "author_name": "Hipponax"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0234",
+      "author_abbrev": "Eleg. Alex. Adesp",
+      "author_name": "Elegiaca Alexandrina Adespota"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0243",
+      "author_abbrev": "Callin.",
+      "author_name": "Callinus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0251",
+      "author_abbrev": "Even.",
+      "author_name": "Evenus Parius"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0255",
+      "author_abbrev": "Mimn.",
+      "author_name": "Mimnermus of Colophon"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0261",
+      "author_abbrev": "Simon.",
+      "author_name": "Simonides"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0263",
+      "author_abbrev": "Sol.",
+      "author_name": "Solon"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0266",
+      "author_abbrev": "Tyrt.",
+      "author_name": "Tyrtaeus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0291",
+      "author_abbrev": "Alcm.",
+      "author_name": "Alcman"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0292",
+      "author_abbrev": "Stesich.",
+      "author_name": "Stesichorus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0323",
+      "author_abbrev": "Antiph.",
+      "author_name": "Antiphon Tragicus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0328",
+      "author_abbrev": "Chaerem.",
+      "author_name": "Chaeremon"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0329",
+      "author_abbrev": "Theodect.",
+      "author_name": "Theodectes"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0341",
+      "author_abbrev": "Lyc.",
+      "author_name": "Lycophron"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0363",
+      "author_abbrev": "Ptol.",
+      "author_name": "Ptolemaeus, Claudius"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0383",
+      "author_abbrev": "Alc.",
+      "author_name": "Alcaeus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0385",
+      "author_abbrev": "D.C.",
+      "author_name": "Cassius Dio"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0405",
+      "author_abbrev": "Anaxandr.",
+      "author_name": "Anaxandrides"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0487",
+      "author_abbrev": "Philem.",
+      "author_name": "Philemo"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0525",
+      "author_abbrev": "Paus.",
+      "author_name": "Pausanias"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0526",
+      "author_abbrev": "J.",
+      "author_name": "Josephus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0533",
+      "author_abbrev": "Call.",
+      "author_name": "Callimachus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0540",
+      "author_abbrev": "Lys.",
+      "author_name": "Lysias"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0542",
+      "author_abbrev": "Poll.",
+      "author_name": "Pollux"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0543",
+      "author_abbrev": "Plb.",
+      "author_name": "Polybius"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0545",
+      "author_abbrev": "Ael.",
+      "author_name": "Aelian"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0548",
+      "author_abbrev": "Apollod.",
+      "author_name": "Apollodorus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0551",
+      "author_abbrev": "App.",
+      "author_name": "Appianus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0560",
+      "author_abbrev": "Longin.",
+      "author_name": "Longinus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0626",
+      "author_abbrev": "Heraclit.",
+      "author_name": "Heraclitus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg0653",
+      "author_abbrev": "Arat.",
+      "author_name": "Aratus Solensis"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg1342",
+      "author_abbrev": "Emp.",
+      "author_name": "Empedocles"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg1409",
+      "author_abbrev": "Heraclid. Pont.",
+      "author_name": "Heraclides Ponticus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg1411",
+      "author_abbrev": "Heraclit.",
+      "author_name": "Heraclitus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg1562",
+      "author_abbrev": "Parm.",
+      "author_name": "Parmenides"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg1791",
+      "author_abbrev": "Men.",
+      "author_name": "Menander"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg2037",
+      "author_abbrev": "Stob.",
+      "author_name": "Stobaeus, Joannes"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg2200",
+      "author_abbrev": "Lib.",
+      "author_name": "Libanius"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg4036",
+      "author_abbrev": "Proc.",
+      "author_name": "Proclus"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg4040",
+      "author_abbrev": "Phot.",
+      "author_name": "Photius"
+    },
+    {
+      "tg_urn": "urn:cts:greekLit:tlg4083",
+      "author_abbrev": "Eust.",
+      "author_name": "Eustathius Archbishop of Thessalonica"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0119",
+      "author_abbrev": "Pl.",
+      "author_name": "Plautus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0448",
+      "author_abbrev": "Caes.",
+      "author_name": "Caesar"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0472",
+      "author_abbrev": "Catul.",
+      "author_name": "Catullus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0474",
+      "author_abbrev": "Cic.",
+      "author_name": "Cicero"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0474",
+      "author_abbrev": "Gel.",
+      "author_name": "Gellius, Aulus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0474",
+      "author_abbrev": "Gell.",
+      "author_name": "Gellius, Aulus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0550",
+      "author_abbrev": "Lucr.",
+      "author_name": "Lucretius Carus, Titus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0588",
+      "author_abbrev": "Nep.",
+      "author_name": "Nepos"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0620",
+      "author_abbrev": "Prop.",
+      "author_name": "Propertius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0631",
+      "author_abbrev": "Sal.",
+      "author_name": "Sallust"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0660",
+      "author_abbrev": "Tib.",
+      "author_name": "Tibullus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0684",
+      "author_abbrev": "Var.",
+      "author_name": "Varro, Marcus Terentius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0690",
+      "author_abbrev": "Verg.",
+      "author_name": "Virgil"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0893",
+      "author_abbrev": "Hor.",
+      "author_name": "Horace"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0914",
+      "author_abbrev": "Liv.",
+      "author_name": "Livy"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0917",
+      "author_abbrev": "Luc.",
+      "author_name": "Lucan"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0959",
+      "author_abbrev": "Ov.",
+      "author_name": "Ovid"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi0978",
+      "author_abbrev": "Plin.",
+      "author_name": "Plinius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1002",
+      "author_abbrev": "Quint.",
+      "author_name": "Quintilian"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1014",
+      "author_abbrev": "Sen.",
+      "author_name": "Seneca, Lucius Annaeus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1038",
+      "author_abbrev": "V. Max",
+      "author_name": "Valerius Maximus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1044",
+      "author_abbrev": "Vell.",
+      "author_name": "Vellius Paterculus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1056",
+      "author_abbrev": "Vitr.",
+      "author_name": "Vitruvius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1254",
+      "author_abbrev": "Fron.",
+      "author_name": "Frontinus, Sextus Julius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1276",
+      "author_abbrev": "Juv.",
+      "author_name": "Juvenal"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1345",
+      "author_abbrev": "Sil.Ital",
+      "author_name": "Silius Italicus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1348",
+      "author_abbrev": "Suet.",
+      "author_name": "Suetonius"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi1351",
+      "author_abbrev": "Tac.",
+      "author_name": "Tacitus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi2349",
+      "author_abbrev": "Serv.",
+      "author_name": "Servius Honoratus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:phi2806",
+      "author_abbrev": "Just.",
+      "author_name": "Justinianus"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0132",
+      "author_abbrev": "Mart.",
+      "author_name": "Martialis"
+    },
+    {
+      "tg_urn": "urn:cts:latinLit:stoa0234a",
+      "author_abbrev": "Priscian.",
+      "author_name": "Priscianus"
+    }
+  ]
+}

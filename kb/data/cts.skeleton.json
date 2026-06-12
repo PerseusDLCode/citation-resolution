@@ -1998,22 +1998,22 @@
       "urn:cts:greekLit:tlg0031.tlg011": {
         "canonical_title": "Philippians",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg012": {
         "canonical_title": "Colossians",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg013": {
         "canonical_title": "1 Thessalonians",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg014": {
         "canonical_title": "2 Thessalonians",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg015": {
         "canonical_title": "1 Timothy",
@@ -2023,17 +2023,17 @@
       "urn:cts:greekLit:tlg0031.tlg016": {
         "canonical_title": "2 Timothy",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg017": {
         "canonical_title": "Titus",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg018": {
         "canonical_title": "Philemon",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg019": {
         "canonical_title": "Hebrews",
@@ -2043,7 +2043,7 @@
       "urn:cts:greekLit:tlg0031.tlg020": {
         "canonical_title": "James",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg021": {
         "canonical_title": "1 Peter",
@@ -2053,27 +2053,27 @@
       "urn:cts:greekLit:tlg0031.tlg022": {
         "canonical_title": "2 Peter",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg023": {
         "canonical_title": "1 John",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg024": {
         "canonical_title": "2 John",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg025": {
         "canonical_title": "3 John",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg026": {
         "canonical_title": "Jude",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0031.tlg027": {
         "canonical_title": "Revelation",
@@ -3512,192 +3512,192 @@
       "urn:cts:greekLit:tlg0527.tlg001": {
         "canonical_title": "Genesis",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg002": {
         "canonical_title": "Exodus",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg003": {
         "canonical_title": "Leviticus",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg004": {
         "canonical_title": "Numbers",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg005": {
         "canonical_title": "Deuteronomy",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg006": {
         "canonical_title": "Joshua",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg008": {
         "canonical_title": "Judges",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg010": {
         "canonical_title": "Ruth",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg011": {
         "canonical_title": "I Samuel",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg012": {
         "canonical_title": "II Samuel",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg013": {
         "canonical_title": "I Kings",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg014": {
         "canonical_title": "II Kings",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg015": {
         "canonical_title": "I Chronicles",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg016": {
         "canonical_title": "II Chronicles",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg018": {
         "canonical_title": "2 Ezra",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg019": {
         "canonical_title": "Esther",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg027": {
         "canonical_title": "Psalms",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg029": {
         "canonical_title": "Proverbs",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg030": {
         "canonical_title": "Ecclesiastes",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg031": {
         "canonical_title": "Canticle",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg032": {
         "canonical_title": "Job",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg036": {
         "canonical_title": "Hosea",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg037": {
         "canonical_title": "Amos",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg038": {
         "canonical_title": "Micah",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg039": {
         "canonical_title": "Joel",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg040": {
         "canonical_title": "Obadiah",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg041": {
         "canonical_title": "Jonah",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg042": {
         "canonical_title": "Nahum",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg043": {
         "canonical_title": "Habakkuk",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg044": {
         "canonical_title": "Zephaniah",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg045": {
         "canonical_title": "Haggai",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg046": {
         "canonical_title": "Zechariah",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg047": {
         "canonical_title": "Malachi",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg048": {
         "canonical_title": "Isaiah",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg049": {
         "canonical_title": "Jeremiah",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg051": {
         "canonical_title": "Lamentations",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg053": {
         "canonical_title": "Ezekiel",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0527.tlg056": {
         "canonical_title": "Daniel",
         "title_abbrevs": [],
-        "scheme": "chapter.verse"
+        "scheme": "flat"
       }
     }
   },
@@ -4801,7 +4801,7 @@
       "urn:cts:greekLit:tlg4081.tlg001": {
         "canonical_title": "The Rape of Helen",
         "title_abbrevs": [],
-        "scheme": "line"
+        "scheme": "flat"
       }
     }
   },
