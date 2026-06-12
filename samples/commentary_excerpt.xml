@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Commentary on Plato's Republic — Sample Excerpt</title>
+        <author>Sample Commentary Author</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Synthetic sample for linker testing. Not for distribution.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Constructed from conventional classical-studies citation patterns.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="commentary" n="intro">
+
+        <!-- ================================================================
+             BOOK I — INTRODUCTION TO REPUBLIC 327a
+             ================================================================ -->
+
+        <div type="note" n="327a.1">
+          <p>The descent to the Piraeus (<bibl>Pl. R. 327a</bibl>) echoes the
+          voluntary descents of myth and epic: compare Heracles and Odysseus.
+          Plato also revisits the harbour-festival motif at
+          <bibl>Pl. Lg. 950c</bibl>.</p>
+        </div>
+
+        <div type="note" n="327a.2">
+          <!-- cit with a MATCHING quote: verified -->
+          <p>The Iliad opens with a declaration of the theme:
+            <cit>
+              <quote xml:lang="grc">μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος</quote>
+              <bibl>Hom. Il. 1.1</bibl>
+            </cit>
+            The noun <foreign xml:lang="grc">μῆνις</foreign> carries overtones
+            explored throughout the poem; cf. also
+            <bibl>Hom. Od. 1.1</bibl>.
+          </p>
+        </div>
+
+        <div type="note" n="327a.3">
+          <!-- cit with a quote that does NOT appear at the cited locus (verify_failed) -->
+          <p>The proem of the Odyssey is sometimes compared with the descent:
+            <cit>
+              <quote xml:lang="grc">πολλὰς δ᾿ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν</quote>
+              <bibl>Hom. Od. 1.1</bibl>
+            </cit>
+            (The quoted line is actually <bibl>Hom. Il. 1.3</bibl>, not Od. 1.1,
+            so quote verification should flag a mismatch.)
+          </p>
+        </div>
+
+        <!-- ================================================================
+             AUTHOR ELISION: two works of Homer in one bibl
+             ================================================================ -->
+
+        <div type="note" n="elision.1">
+          <p>The theme of divine anger appears in both epics:
+            <bibl>Hom. Il. 1.1; Od. 1.20</bibl>.
+          </p>
+        </div>
+
+        <!-- ================================================================
+             THUCYDIDES — work abbreviation required (Th. is ambiguous)
+             ================================================================ -->
+
+        <div type="note" n="thuc.1">
+          <!-- Includes work abbreviation 'hist.' → resolves to Thucydides -->
+          <p>Thucydides' methodological statement
+            (<bibl>Th. hist. 1.22.1</bibl>) on speeches is the locus classicus
+            for ancient attitudes to the historian's craft.</p>
+        </div>
+
+        <div type="note" n="thuc.2">
+          <!-- NO work abbreviation → review (author matched, work unresolved) -->
+          <p>The Funeral Oration in <bibl>Th. 2.35</bibl> offers a contrasting
+          model of Athenian self-presentation; without a work abbreviation the
+          reference is ambiguous among the several authors who share this
+          abbreviation.</p>
+        </div>
+
+        <!-- ================================================================
+             SOPHOCLES
+             ================================================================ -->
+
+        <div type="note" n="soph.1">
+          <p>The civic ideal pervades tragedy: <bibl>S. OT 1</bibl> opens with
+          the suppliants before Oedipus, and <bibl>S. Ant. 1</bibl> with
+          Antigone's defiance.</p>
+        </div>
+
+        <!-- ================================================================
+             PINDAR — scope contains editor sigla → review
+             ================================================================ -->
+
+        <div type="note" n="pindar.1">
+          <p>Pindar's praise of the descent is captured in
+            <bibl>Pi. O. 1.1</bibl>.
+            A relevant fragment is cited by ancient scholars:
+            <bibl>Pi. fr. 121 M.</bibl>
+            (the editor sigla "M." makes the scope unparseable as a CTS
+            passage component).</p>
+        </div>
+
+        <!-- ================================================================
+             ARISTOTLE — work abbreviation disambiguates between Ar. entries
+             ================================================================ -->
+
+        <div type="note" n="arist.1">
+          <p>Aristotle's definition of eudaimonia (<bibl>Arist. EN 1.7</bibl>)
+          is the philosophical backdrop to Platonic conceptions of the good.
+          His account of mimesis in <bibl>Arist. Po. 1451a</bibl> is also
+          relevant.</p>
+        </div>
+
+        <!-- ================================================================
+             ARISTOPHANES — 'Arist.' disambiguated by work title
+             ================================================================ -->
+
+        <div type="note" n="ar.1">
+          <p>Comedy mocks the Socratic circle: <bibl>Arist. Nu. 225</bibl>
+          (Clouds, the Socrates scene); cf. also
+          <bibl>Arist. Nu. 94</bibl>.</p>
+        </div>
+
+        <!-- ================================================================
+             HERODOTUS — single-work author but no default_work in KB
+             ================================================================ -->
+
+        <div type="note" n="hdt.1">
+          <p>The Histories record the Athenian descent to the sea:
+            <bibl>Hdt. hist. 7.139</bibl>.
+          </p>
+        </div>
+
+        <!-- ================================================================
+             LATIN AUTHORS
+             ================================================================ -->
+
+        <div type="note" n="lat.1">
+          <!-- cit with matching Latin quote -->
+          <cit>
+            <quote xml:lang="lat">Gallia est omnis divisa in partes tres</quote>
+            <bibl>Caes. Gal. 1.1</bibl>
+          </cit>
+        </div>
+
+        <div type="note" n="lat.2">
+          <p>Virgil's opening echoes the Iliad:
+            <bibl>Verg. Aen. 1.1</bibl>.
+            Ovid's reworking appears at <bibl>Ov. Am. 1.1</bibl>.
+          </p>
+        </div>
+
+        <!-- ================================================================
+             REVIEW CASES: fragmentary authors, unknown abbreviations
+             ================================================================ -->
+
+        <div type="note" n="frag.1">
+          <!-- Unknown abbreviation → skipped (no KB author match) -->
+          <p>Archilochus' iambic tradition: <bibl>Archil. fr. 1 W.</bibl>
+          (Archilochus is not currently in the gazetteer).</p>
+        </div>
+
+        <div type="note" n="frag.2">
+          <!-- AP = Anthologia Palatina, not in KB → skipped -->
+          <p>The erotic epigram tradition: <bibl>AP 5.1</bibl>.</p>
+        </div>
+
+        <div type="note" n="frag.3">
+          <!-- Heraclitus fragment — likely not in KB or scope unparseable -->
+          <p>Compare Heraclitus: <bibl>Heraclit. fr. 22 B 1</bibl>.</p>
+        </div>
+
+        <!-- ================================================================
+             SECONDARY LITERATURE — must be skipped
+             ================================================================ -->
+
+        <div type="note" n="sec.1">
+          <p>On the Piraeus descent see
+            <bibl type="secondary">West 1978: 45</bibl> and
+            <bibl type="secondary">Burkert 1985: 12</bibl>.
+            The philosophical significance is treated by
+            <bibl type="secondary">Williams 2006: 203</bibl>.</p>
+        </div>
+
+        <div type="note" n="sec.2">
+          <!-- Flat bibl without @type — secondary by KB non-match (no author token) -->
+          <p>For the political background cf. <bibl>Rhodes 1981: 174</bibl>.</p>
+        </div>
+
+        <!-- ================================================================
+             COMPONENTIZED bibl — already has author/title/citedRange children
+             ================================================================ -->
+
+        <div type="note" n="comp.1">
+          <p>A componential citation:
+            <bibl>
+              <author>Hom.</author>
+              <title>Il.</title>
+              <citedRange>1.1</citedRange>
+            </bibl>
+            demonstrates the write-back of @ref to each child element.
+          </p>
+        </div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

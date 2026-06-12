@@ -1,0 +1,164 @@
+{
+  "source": "biblical_conventional",
+  "license": "CC0",
+  "note": "Conventional Latin abbreviations for Old and New Testament books, mapped to CTS URNs in canonical-greekLit (LXX for OT, Greek NT). These abbreviations appear in Late-Antique/mediaeval Latin commentary texts citing the Vulgate. Chapter/verse numbering is identical between Vulgate and Greek NT; OT numbering differs slightly between Vulgate and LXX but is close enough for passage-level matching. Each entry uses the work URN as a synthetic textgroup key so that the linker can match book abbreviations as 'author' tokens. Deuterocanonical books absent from the canonical-greekLit repo (Sirach, Baruch, Wisdom, 1-2 Maccabees, Tobit, Judith) are omitted here; they remain as review items.",
+  "entries": [
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg001", "author_abbrev": "Matth.",  "author_name": "Matthew",        "work_urn": "urn:cts:greekLit:tlg0031.tlg001", "work_abbrev": "Matth.",  "work_name": "Gospel of Matthew",        "scheme": "chapter.verse", "default_work": "Matth."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg001", "author_abbrev": "Matt.",   "author_name": "Matthew",        "work_urn": "urn:cts:greekLit:tlg0031.tlg001", "work_abbrev": "Matt.",   "work_name": "Gospel of Matthew"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg001", "author_abbrev": "Math.",   "author_name": "Matthew",        "work_urn": "urn:cts:greekLit:tlg0031.tlg001", "work_abbrev": "Math.",   "work_name": "Gospel of Matthew"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg001", "author_abbrev": "Mattb.",  "author_name": "Matthew",        "work_urn": "urn:cts:greekLit:tlg0031.tlg001", "work_abbrev": "Mattb.",  "work_name": "Gospel of Matthew"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg002", "author_abbrev": "Marc.",   "author_name": "Mark",           "work_urn": "urn:cts:greekLit:tlg0031.tlg002", "work_abbrev": "Marc.",   "work_name": "Gospel of Mark",           "scheme": "chapter.verse", "default_work": "Marc."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg002", "author_abbrev": "Mare.",   "author_name": "Mark",           "work_urn": "urn:cts:greekLit:tlg0031.tlg002", "work_abbrev": "Mare.",   "work_name": "Gospel of Mark"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg003", "author_abbrev": "Luc.",    "author_name": "Luke",           "work_urn": "urn:cts:greekLit:tlg0031.tlg003", "work_abbrev": "Luc.",    "work_name": "Gospel of Luke",           "scheme": "chapter.verse", "default_work": "Luc."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg003", "author_abbrev": "Lue.",    "author_name": "Luke",           "work_urn": "urn:cts:greekLit:tlg0031.tlg003", "work_abbrev": "Lue.",    "work_name": "Gospel of Luke"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg003", "author_abbrev": "Luke",    "author_name": "Luke",           "work_urn": "urn:cts:greekLit:tlg0031.tlg003", "work_abbrev": "Luke",    "work_name": "Gospel of Luke"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg003", "author_abbrev": "Luc",     "author_name": "Luke",           "work_urn": "urn:cts:greekLit:tlg0031.tlg003", "work_abbrev": "Luc",     "work_name": "Gospel of Luke"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg004", "author_abbrev": "Io.",     "author_name": "John",           "work_urn": "urn:cts:greekLit:tlg0031.tlg004", "work_abbrev": "Io.",     "work_name": "Gospel of John",           "scheme": "chapter.verse", "default_work": "Io."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg004", "author_abbrev": "Ioh.",    "author_name": "John",           "work_urn": "urn:cts:greekLit:tlg0031.tlg004", "work_abbrev": "Ioh.",    "work_name": "Gospel of John"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg004", "author_abbrev": "Ioan.",   "author_name": "John",           "work_urn": "urn:cts:greekLit:tlg0031.tlg004", "work_abbrev": "Ioan.",   "work_name": "Gospel of John"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg004", "author_abbrev": "Ioa.",    "author_name": "John",           "work_urn": "urn:cts:greekLit:tlg0031.tlg004", "work_abbrev": "Ioa.",    "work_name": "Gospel of John"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg004", "author_abbrev": "Io",      "author_name": "John",           "work_urn": "urn:cts:greekLit:tlg0031.tlg004", "work_abbrev": "Io",      "work_name": "Gospel of John"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg004", "author_abbrev": "Ioo.",    "author_name": "John",           "work_urn": "urn:cts:greekLit:tlg0031.tlg004", "work_abbrev": "Ioo.",    "work_name": "Gospel of John"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg005", "author_abbrev": "Act.",    "author_name": "Acts",           "work_urn": "urn:cts:greekLit:tlg0031.tlg005", "work_abbrev": "Act.",    "work_name": "Acts of the Apostles",     "scheme": "chapter.verse", "default_work": "Act."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg005", "author_abbrev": "Act",     "author_name": "Acts",           "work_urn": "urn:cts:greekLit:tlg0031.tlg005", "work_abbrev": "Act",     "work_name": "Acts of the Apostles"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg005", "author_abbrev": "Apos.",   "author_name": "Acts",           "work_urn": "urn:cts:greekLit:tlg0031.tlg005", "work_abbrev": "Apos.",   "work_name": "Acts of the Apostles"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg006", "author_abbrev": "Rom.",    "author_name": "Romans",         "work_urn": "urn:cts:greekLit:tlg0031.tlg006", "work_abbrev": "Rom.",    "work_name": "Epistle to the Romans",    "scheme": "chapter.verse", "default_work": "Rom."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg007", "author_abbrev": "I Cor.",  "author_name": "1 Corinthians",  "work_urn": "urn:cts:greekLit:tlg0031.tlg007", "work_abbrev": "I Cor.",  "work_name": "1 Corinthians",            "scheme": "chapter.verse", "default_work": "I Cor."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg007", "author_abbrev": "ICor.",   "author_name": "1 Corinthians",  "work_urn": "urn:cts:greekLit:tlg0031.tlg007", "work_abbrev": "ICor.",   "work_name": "1 Corinthians"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg008", "author_abbrev": "II Cor.", "author_name": "2 Corinthians",  "work_urn": "urn:cts:greekLit:tlg0031.tlg008", "work_abbrev": "II Cor.", "work_name": "2 Corinthians",            "scheme": "chapter.verse", "default_work": "II Cor."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg008", "author_abbrev": "IICor.",  "author_name": "2 Corinthians",  "work_urn": "urn:cts:greekLit:tlg0031.tlg008", "work_abbrev": "IICor.",  "work_name": "2 Corinthians"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg009", "author_abbrev": "Gal.",    "author_name": "Galatians",      "work_urn": "urn:cts:greekLit:tlg0031.tlg009", "work_abbrev": "Gal.",    "work_name": "Galatians",                "scheme": "chapter.verse", "default_work": "Gal."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg009", "author_abbrev": "Galat.",  "author_name": "Galatians",      "work_urn": "urn:cts:greekLit:tlg0031.tlg009", "work_abbrev": "Galat.",  "work_name": "Galatians"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg010", "author_abbrev": "Eph.",    "author_name": "Ephesians",      "work_urn": "urn:cts:greekLit:tlg0031.tlg010", "work_abbrev": "Eph.",    "work_name": "Ephesians",                "scheme": "chapter.verse", "default_work": "Eph."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg010", "author_abbrev": "Ephes.",  "author_name": "Ephesians",      "work_urn": "urn:cts:greekLit:tlg0031.tlg010", "work_abbrev": "Ephes.",  "work_name": "Ephesians"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg011", "author_abbrev": "Phil.",   "author_name": "Philippians",    "work_urn": "urn:cts:greekLit:tlg0031.tlg011", "work_abbrev": "Phil.",   "work_name": "Philippians",              "scheme": "chapter.verse", "default_work": "Phil."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg012", "author_abbrev": "Col.",    "author_name": "Colossians",     "work_urn": "urn:cts:greekLit:tlg0031.tlg012", "work_abbrev": "Col.",    "work_name": "Colossians",               "scheme": "chapter.verse", "default_work": "Col."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg012", "author_abbrev": "Coloss.", "author_name": "Colossians",     "work_urn": "urn:cts:greekLit:tlg0031.tlg012", "work_abbrev": "Coloss.", "work_name": "Colossians"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg013", "author_abbrev": "I Thess.","author_name": "1 Thessalonians","work_urn": "urn:cts:greekLit:tlg0031.tlg013", "work_abbrev": "I Thess.","work_name": "1 Thessalonians",          "scheme": "chapter.verse", "default_work": "I Thess."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg014", "author_abbrev": "II Thess.","author_name": "2 Thessalonians","work_urn": "urn:cts:greekLit:tlg0031.tlg014","work_abbrev": "II Thess.","work_name": "2 Thessalonians",         "scheme": "chapter.verse", "default_work": "II Thess."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg015", "author_abbrev": "I Tim.",  "author_name": "1 Timothy",      "work_urn": "urn:cts:greekLit:tlg0031.tlg015", "work_abbrev": "I Tim.",  "work_name": "1 Timothy",                "scheme": "chapter.verse", "default_work": "I Tim."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg016", "author_abbrev": "II Tim.", "author_name": "2 Timothy",      "work_urn": "urn:cts:greekLit:tlg0031.tlg016", "work_abbrev": "II Tim.", "work_name": "2 Timothy",                "scheme": "chapter.verse", "default_work": "II Tim."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg017", "author_abbrev": "Tit.",    "author_name": "Titus",          "work_urn": "urn:cts:greekLit:tlg0031.tlg017", "work_abbrev": "Tit.",    "work_name": "Titus",                    "scheme": "chapter.verse", "default_work": "Tit."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg019", "author_abbrev": "Hebr.",   "author_name": "Hebrews",        "work_urn": "urn:cts:greekLit:tlg0031.tlg019", "work_abbrev": "Hebr.",   "work_name": "Hebrews",                  "scheme": "chapter.verse", "default_work": "Hebr."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg019", "author_abbrev": "Heb.",    "author_name": "Hebrews",        "work_urn": "urn:cts:greekLit:tlg0031.tlg019", "work_abbrev": "Heb.",    "work_name": "Hebrews"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg020", "author_abbrev": "Iac.",    "author_name": "James",          "work_urn": "urn:cts:greekLit:tlg0031.tlg020", "work_abbrev": "Iac.",    "work_name": "James",                    "scheme": "chapter.verse", "default_work": "Iac."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg021", "author_abbrev": "I Pet.",  "author_name": "1 Peter",        "work_urn": "urn:cts:greekLit:tlg0031.tlg021", "work_abbrev": "I Pet.",  "work_name": "1 Peter",                  "scheme": "chapter.verse", "default_work": "I Pet."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg021", "author_abbrev": "I Petr.", "author_name": "1 Peter",        "work_urn": "urn:cts:greekLit:tlg0031.tlg021", "work_abbrev": "I Petr.", "work_name": "1 Peter"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg022", "author_abbrev": "II Pet.", "author_name": "2 Peter",        "work_urn": "urn:cts:greekLit:tlg0031.tlg022", "work_abbrev": "II Pet.", "work_name": "2 Peter",                  "scheme": "chapter.verse", "default_work": "II Pet."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg022", "author_abbrev": "II Petr.","author_name": "2 Peter",        "work_urn": "urn:cts:greekLit:tlg0031.tlg022", "work_abbrev": "II Petr.","work_name": "2 Peter"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg023", "author_abbrev": "I Io.",   "author_name": "1 John",         "work_urn": "urn:cts:greekLit:tlg0031.tlg023", "work_abbrev": "I Io.",   "work_name": "1 John",                   "scheme": "chapter.verse", "default_work": "I Io."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg023", "author_abbrev": "I Ioh.",  "author_name": "1 John",         "work_urn": "urn:cts:greekLit:tlg0031.tlg023", "work_abbrev": "I Ioh.",  "work_name": "1 John"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg024", "author_abbrev": "II Io.",  "author_name": "2 John",         "work_urn": "urn:cts:greekLit:tlg0031.tlg024", "work_abbrev": "II Io.",  "work_name": "2 John",                   "scheme": "chapter.verse", "default_work": "II Io."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg024", "author_abbrev": "IIoh.",   "author_name": "2 John",         "work_urn": "urn:cts:greekLit:tlg0031.tlg024", "work_abbrev": "IIoh.",   "work_name": "2 John"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg024", "author_abbrev": "II Ioh.", "author_name": "2 John",         "work_urn": "urn:cts:greekLit:tlg0031.tlg024", "work_abbrev": "II Ioh.", "work_name": "2 John"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg025", "author_abbrev": "III Io.", "author_name": "3 John",         "work_urn": "urn:cts:greekLit:tlg0031.tlg025", "work_abbrev": "III Io.", "work_name": "3 John",                   "scheme": "chapter.verse", "default_work": "III Io."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg027", "author_abbrev": "Apoc.",   "author_name": "Revelation",     "work_urn": "urn:cts:greekLit:tlg0031.tlg027", "work_abbrev": "Apoc.",   "work_name": "Revelation",               "scheme": "chapter.verse", "default_work": "Apoc."},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg027", "author_abbrev": "Apocal.", "author_name": "Revelation",     "work_urn": "urn:cts:greekLit:tlg0031.tlg027", "work_abbrev": "Apocal.", "work_name": "Revelation"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg027", "author_abbrev": "Apec.",   "author_name": "Revelation",     "work_urn": "urn:cts:greekLit:tlg0031.tlg027", "work_abbrev": "Apec.",   "work_name": "Revelation"},
+    {"tg_urn": "urn:cts:greekLit:tlg0031.tlg027", "author_abbrev": "Apoc",    "author_name": "Revelation",     "work_urn": "urn:cts:greekLit:tlg0031.tlg027", "work_abbrev": "Apoc",    "work_name": "Revelation"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg001", "author_abbrev": "Gen.",    "author_name": "Genesis",        "work_urn": "urn:cts:greekLit:tlg0527.tlg001", "work_abbrev": "Gen.",    "work_name": "Genesis",                  "scheme": "chapter.verse", "default_work": "Gen."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg001", "author_abbrev": "Gen",     "author_name": "Genesis",        "work_urn": "urn:cts:greekLit:tlg0527.tlg001", "work_abbrev": "Gen",     "work_name": "Genesis"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg002", "author_abbrev": "Exod.",   "author_name": "Exodus",         "work_urn": "urn:cts:greekLit:tlg0527.tlg002", "work_abbrev": "Exod.",   "work_name": "Exodus",                   "scheme": "chapter.verse", "default_work": "Exod."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg002", "author_abbrev": "Exod",    "author_name": "Exodus",         "work_urn": "urn:cts:greekLit:tlg0527.tlg002", "work_abbrev": "Exod",    "work_name": "Exodus"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg003", "author_abbrev": "Lev.",    "author_name": "Leviticus",      "work_urn": "urn:cts:greekLit:tlg0527.tlg003", "work_abbrev": "Lev.",    "work_name": "Leviticus",                "scheme": "chapter.verse", "default_work": "Lev."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg003", "author_abbrev": "Levit.",  "author_name": "Leviticus",      "work_urn": "urn:cts:greekLit:tlg0527.tlg003", "work_abbrev": "Levit.",  "work_name": "Leviticus"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg004", "author_abbrev": "Num.",    "author_name": "Numbers",        "work_urn": "urn:cts:greekLit:tlg0527.tlg004", "work_abbrev": "Num.",    "work_name": "Numbers",                  "scheme": "chapter.verse", "default_work": "Num."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg005", "author_abbrev": "Deut.",   "author_name": "Deuteronomy",    "work_urn": "urn:cts:greekLit:tlg0527.tlg005", "work_abbrev": "Deut.",   "work_name": "Deuteronomy",              "scheme": "chapter.verse", "default_work": "Deut."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg005", "author_abbrev": "Deut",    "author_name": "Deuteronomy",    "work_urn": "urn:cts:greekLit:tlg0527.tlg005", "work_abbrev": "Deut",    "work_name": "Deuteronomy"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg006", "author_abbrev": "Ios.",    "author_name": "Joshua",         "work_urn": "urn:cts:greekLit:tlg0527.tlg006", "work_abbrev": "Ios.",    "work_name": "Joshua",                   "scheme": "chapter.verse", "default_work": "Ios."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg008", "author_abbrev": "Iudic.",  "author_name": "Judges",         "work_urn": "urn:cts:greekLit:tlg0527.tlg008", "work_abbrev": "Iudic.",  "work_name": "Judges",                   "scheme": "chapter.verse", "default_work": "Iudic."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg011", "author_abbrev": "I Sam.",  "author_name": "1 Samuel",       "work_urn": "urn:cts:greekLit:tlg0527.tlg011", "work_abbrev": "I Sam.",  "work_name": "1 Samuel",                 "scheme": "chapter.verse", "default_work": "I Sam."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg011", "author_abbrev": "I Reg.",  "author_name": "1 Samuel",       "work_urn": "urn:cts:greekLit:tlg0527.tlg011", "work_abbrev": "I Reg.",  "work_name": "1 Samuel"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg012", "author_abbrev": "II Sam.", "author_name": "2 Samuel",       "work_urn": "urn:cts:greekLit:tlg0527.tlg012", "work_abbrev": "II Sam.", "work_name": "2 Samuel",                 "scheme": "chapter.verse", "default_work": "II Sam."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg012", "author_abbrev": "II Reg.", "author_name": "2 Samuel",       "work_urn": "urn:cts:greekLit:tlg0527.tlg012", "work_abbrev": "II Reg.", "work_name": "2 Samuel"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg013", "author_abbrev": "III Reg.","author_name": "1 Kings",        "work_urn": "urn:cts:greekLit:tlg0527.tlg013", "work_abbrev": "III Reg.","work_name": "1 Kings",                  "scheme": "chapter.verse", "default_work": "III Reg."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg014", "author_abbrev": "IV Reg.", "author_name": "2 Kings",        "work_urn": "urn:cts:greekLit:tlg0527.tlg014", "work_abbrev": "IV Reg.", "work_name": "2 Kings",                  "scheme": "chapter.verse", "default_work": "IV Reg."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg027", "author_abbrev": "Ps.",     "author_name": "Psalms",         "work_urn": "urn:cts:greekLit:tlg0527.tlg027", "work_abbrev": "Ps.",     "work_name": "Psalms",                   "scheme": "chapter.verse", "default_work": "Ps."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg027", "author_abbrev": "Psalm.",  "author_name": "Psalms",         "work_urn": "urn:cts:greekLit:tlg0527.tlg027", "work_abbrev": "Psalm.",  "work_name": "Psalms"},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg027", "author_abbrev": "Psalm",   "author_name": "Psalms",         "work_urn": "urn:cts:greekLit:tlg0527.tlg027", "work_abbrev": "Psalm",   "work_name": "Psalms"},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg027", "author_abbrev": "Ps",      "author_name": "Psalms",         "work_urn": "urn:cts:greekLit:tlg0527.tlg027", "work_abbrev": "Ps",      "work_name": "Psalms"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg029", "author_abbrev": "Prov.",   "author_name": "Proverbs",       "work_urn": "urn:cts:greekLit:tlg0527.tlg029", "work_abbrev": "Prov.",   "work_name": "Proverbs",                 "scheme": "chapter.verse", "default_work": "Prov."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg030", "author_abbrev": "Eccl.",   "author_name": "Ecclesiastes",   "work_urn": "urn:cts:greekLit:tlg0527.tlg030", "work_abbrev": "Eccl.",   "work_name": "Ecclesiastes",             "scheme": "chapter.verse", "default_work": "Eccl."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg030", "author_abbrev": "Eccles.", "author_name": "Ecclesiastes",   "work_urn": "urn:cts:greekLit:tlg0527.tlg030", "work_abbrev": "Eccles.", "work_name": "Ecclesiastes"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg032", "author_abbrev": "Iob.",    "author_name": "Job",            "work_urn": "urn:cts:greekLit:tlg0527.tlg032", "work_abbrev": "Iob.",    "work_name": "Job",                      "scheme": "chapter.verse", "default_work": "Iob."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg036", "author_abbrev": "Hos.",    "author_name": "Hosea",          "work_urn": "urn:cts:greekLit:tlg0527.tlg036", "work_abbrev": "Hos.",    "work_name": "Hosea",                    "scheme": "chapter.verse", "default_work": "Hos."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg037", "author_abbrev": "Amos",    "author_name": "Amos",           "work_urn": "urn:cts:greekLit:tlg0527.tlg037", "work_abbrev": "Amos",    "work_name": "Amos",                     "scheme": "chapter.verse", "default_work": "Amos"},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg037", "author_abbrev": "Amos.",   "author_name": "Amos",           "work_urn": "urn:cts:greekLit:tlg0527.tlg037", "work_abbrev": "Amos.",   "work_name": "Amos"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg038", "author_abbrev": "Mich.",   "author_name": "Micah",          "work_urn": "urn:cts:greekLit:tlg0527.tlg038", "work_abbrev": "Mich.",   "work_name": "Micah",                    "scheme": "chapter.verse", "default_work": "Mich."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg038", "author_abbrev": "Micha",   "author_name": "Micah",          "work_urn": "urn:cts:greekLit:tlg0527.tlg038", "work_abbrev": "Micha",   "work_name": "Micah"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg039", "author_abbrev": "Ioel.",   "author_name": "Joel",           "work_urn": "urn:cts:greekLit:tlg0527.tlg039", "work_abbrev": "Ioel.",   "work_name": "Joel",                     "scheme": "chapter.verse", "default_work": "Ioel."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg039", "author_abbrev": "Ioel",    "author_name": "Joel",           "work_urn": "urn:cts:greekLit:tlg0527.tlg039", "work_abbrev": "Ioel",    "work_name": "Joel"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg041", "author_abbrev": "Ion.",    "author_name": "Jonah",          "work_urn": "urn:cts:greekLit:tlg0527.tlg041", "work_abbrev": "Ion.",    "work_name": "Jonah",                    "scheme": "chapter.verse", "default_work": "Ion."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg042", "author_abbrev": "Nahum",   "author_name": "Nahum",          "work_urn": "urn:cts:greekLit:tlg0527.tlg042", "work_abbrev": "Nahum",   "work_name": "Nahum",                    "scheme": "chapter.verse", "default_work": "Nahum"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg043", "author_abbrev": "Habac.",  "author_name": "Habakkuk",       "work_urn": "urn:cts:greekLit:tlg0527.tlg043", "work_abbrev": "Habac.",  "work_name": "Habakkuk",                 "scheme": "chapter.verse", "default_work": "Habac."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg043", "author_abbrev": "Hab.",    "author_name": "Habakkuk",       "work_urn": "urn:cts:greekLit:tlg0527.tlg043", "work_abbrev": "Hab.",    "work_name": "Habakkuk"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg046", "author_abbrev": "Zach.",   "author_name": "Zechariah",      "work_urn": "urn:cts:greekLit:tlg0527.tlg046", "work_abbrev": "Zach.",   "work_name": "Zechariah",                "scheme": "chapter.verse", "default_work": "Zach."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg047", "author_abbrev": "Mal.",    "author_name": "Malachi",        "work_urn": "urn:cts:greekLit:tlg0527.tlg047", "work_abbrev": "Mal.",    "work_name": "Malachi",                  "scheme": "chapter.verse", "default_work": "Mal."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg047", "author_abbrev": "Malach.", "author_name": "Malachi",        "work_urn": "urn:cts:greekLit:tlg0527.tlg047", "work_abbrev": "Malach.", "work_name": "Malachi"},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg047", "author_abbrev": "Maleach.","author_name": "Malachi",        "work_urn": "urn:cts:greekLit:tlg0527.tlg047", "work_abbrev": "Maleach.","work_name": "Malachi"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg048", "author_abbrev": "Ies.",    "author_name": "Isaiah",         "work_urn": "urn:cts:greekLit:tlg0527.tlg048", "work_abbrev": "Ies.",    "work_name": "Isaiah",                   "scheme": "chapter.verse", "default_work": "Ies."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg048", "author_abbrev": "Ies",     "author_name": "Isaiah",         "work_urn": "urn:cts:greekLit:tlg0527.tlg048", "work_abbrev": "Ies",     "work_name": "Isaiah"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg049", "author_abbrev": "Ier.",    "author_name": "Jeremiah",       "work_urn": "urn:cts:greekLit:tlg0527.tlg049", "work_abbrev": "Ier.",    "work_name": "Jeremiah",                 "scheme": "chapter.verse", "default_work": "Ier."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg049", "author_abbrev": "Ierem.",  "author_name": "Jeremiah",       "work_urn": "urn:cts:greekLit:tlg0527.tlg049", "work_abbrev": "Ierem.",  "work_name": "Jeremiah"},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg049", "author_abbrev": "Ior.",    "author_name": "Jeremiah",       "work_urn": "urn:cts:greekLit:tlg0527.tlg049", "work_abbrev": "Ior.",    "work_name": "Jeremiah"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg051", "author_abbrev": "Thren.",  "author_name": "Lamentations",   "work_urn": "urn:cts:greekLit:tlg0527.tlg051", "work_abbrev": "Thren.",  "work_name": "Lamentations",             "scheme": "chapter.verse", "default_work": "Thren."},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg053", "author_abbrev": "Ezech.",  "author_name": "Ezekiel",        "work_urn": "urn:cts:greekLit:tlg0527.tlg053", "work_abbrev": "Ezech.",  "work_name": "Ezekiel",                  "scheme": "chapter.verse", "default_work": "Ezech."},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg053", "author_abbrev": "Exech.",  "author_name": "Ezekiel",        "work_urn": "urn:cts:greekLit:tlg0527.tlg053", "work_abbrev": "Exech.",  "work_name": "Ezekiel"},
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg053", "author_abbrev": "Esech.",  "author_name": "Ezekiel",        "work_urn": "urn:cts:greekLit:tlg0527.tlg053", "work_abbrev": "Esech.",  "work_name": "Ezekiel"},
+
+    {"tg_urn": "urn:cts:greekLit:tlg0527.tlg056", "author_abbrev": "Dan.",    "author_name": "Daniel",         "work_urn": "urn:cts:greekLit:tlg0527.tlg056", "work_abbrev": "Dan.",    "work_name": "Daniel",                   "scheme": "chapter.verse", "default_work": "Dan."}
+  ]
+}

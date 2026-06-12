@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS
+.DS_Store
+
+HANDOFF.md
+hucit.trig
+*.log.json
+greek-authors.json
+greek-citation_map.json
+latin-authors.json
+latin-citation_map.json
+TODO.md
+
+# Generated samples output (keep source XML; ignore derived files)
+samples/*.linked.xml
+samples/report.json
+samples/REPORT.md
