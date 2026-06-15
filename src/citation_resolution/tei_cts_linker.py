@@ -81,6 +81,8 @@ def _roman_to_arabic(tok: str) -> Optional[int]:
         val += curr if curr >= prev else -curr
         prev = curr
     return val if val > 0 else None
+
+
 # Namespace for our own review/processing flags, kept out of the TEI namespace
 # so it's trivially greppable and strippable before publication.
 NEL_NS = "https://example.org/ns/nel"
@@ -186,7 +188,7 @@ class Gazetteer:
                 self._by_name_folded.setdefault(_fold(abbr), []).append(a)
 
     @classmethod
-    def from_json(cls, path: str) -> "Gazetteer":
+    def from_json(cls, path: Path | str) -> "Gazetteer":
         with open(path, encoding="utf-8") as fh:
             data = json.load(fh)
         return cls.from_dict(data)
@@ -225,7 +227,6 @@ class Gazetteer:
             return author.works[token]
         folded = {_fold(k): v for k, v in author.works.items()}
         return folded.get(_fold(token))
-
 
 
 # --------------------------------------------------------------------------- #
