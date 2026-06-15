@@ -59,6 +59,11 @@
       "author_name": "Cicero"
     },
     {
+      "tg_urn": "urn:cts:latinLit:phi0917",
+      "author_abbrev": "Luc.",
+      "author_name": "Lucan"
+    },
+    {
       "tg_urn": "urn:cts:latinLit:phi0550",
       "author_abbrev": "Lucr.",
       "author_name": "Lucretius"

@@ -1205,10 +1205,13 @@
     "name_abbrevs": [
       "Lucan."
     ],
-    "default_work": null,
+    "default_work": "urn:cts:latinLit:phi0917.phi001",
     "works": {
       "urn:cts:latinLit:phi0917.phi001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Bell. Civ.",
+          "Phars."
+        ],
         "scheme": "flat"
       },
       "urn:cts:cwkb:525.1093": {

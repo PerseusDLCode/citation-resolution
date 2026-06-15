@@ -6559,10 +6559,13 @@
       "Lucan.",
       "Luc."
     ],
-    "default_work": null,
+    "default_work": "urn:cts:latinLit:phi0917.phi001",
     "works": {
       "urn:cts:latinLit:phi0917.phi001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Phars.",
+          "Bell. Civ."
+        ],
         "scheme": "book.line"
       },
       "urn:cts:cwkb:525.1093": {

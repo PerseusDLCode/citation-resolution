@@ -650,6 +650,23 @@ class TEILinker:
 
         resolveds = [self._resolve_reference(r) for r in refs]
 
+        # If text-body segmentation failed entirely, fall back to @n.
+        if not resolveds or all(r.status == "skipped" for r in resolveds):
+            n_val = (bibl.get("n") or "").strip()
+            if n_val:
+                if n_val.startswith("urn:cts:"):
+                    stub = Reference(
+                        raw=n_val,
+                        author_token=None,
+                        work_token=None,
+                        scope_surface=None,
+                    )
+                    resolveds = [Resolved(reference=stub, urn=n_val, status="linked")]
+                else:
+                    n_refs = segment(n_val, self.kb, prev_author=None)
+                    if n_refs:
+                        resolveds = [self._resolve_reference(r) for r in n_refs]
+
         # Quote verification (only meaningful for a single-reference cit).
         if quote and len([r for r in resolveds if r.urn]) == 1:
             r = next(r for r in resolveds if r.urn)
