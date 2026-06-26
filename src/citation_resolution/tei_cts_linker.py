@@ -49,8 +49,8 @@ import json
 import re
 import sys
 import unicodedata
+import importlib.resources
 from dataclasses import dataclass, field
-from pathlib import Path
 from typing import Optional, Protocol, Sequence
 
 from lxml import etree  # ty: ignore
@@ -785,8 +785,8 @@ class TEILinker:
                 cr.set("to", parsed.to_ref)
 
 
-_DEFAULT_GAZETTEER = (
-    Path(__file__).resolve().parent.parent.parent / "kb" / "data" / "gazetteer.json"
+_DEFAULT_GAZETTEER = str(
+    importlib.resources.files("citation_resolution.data").joinpath("gazetteer.json")
 )
 
 

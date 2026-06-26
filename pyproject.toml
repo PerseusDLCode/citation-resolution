@@ -19,6 +19,9 @@ build-backend = "hatchling.build"
 [tool.hatch.build.targets.wheel]
 packages = ["src/citation_resolution"]
 
+[tool.hatch.build.targets.wheel.include]
+"src/citation_resolution/data/gazetteer.json" = "citation_resolution/data/gazetteer.json"
+
 [dependency-groups]
 dev = [
     "ruff>=0.15.17",
