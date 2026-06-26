@@ -20,7 +20,7 @@ Usage:
     python kb/merge_gazetteer.py \\
         --hucit  kb/data/hucit.gazetteer.json \\
         --cts    kb/data/cts.skeleton.json \\
-        --output kb/data/gazetteer.json \\
+        --output src/citation_resolution/data/gazetteer.json \\
         --verify
 """
 
@@ -127,9 +127,27 @@ def verify(gazetteer: dict) -> bool:
     ok = True
 
     checks = [
-        ("urn:cts:greekLit:tlg0012", "urn:cts:greekLit:tlg0012.tlg001", ["Hom."], ["Il."], "book.line"),
-        ("urn:cts:greekLit:tlg0003", "urn:cts:greekLit:tlg0003.tlg001", ["Th."],   [],      "book.chapter.section"),
-        ("urn:cts:greekLit:tlg0059", "urn:cts:greekLit:tlg0059.tlg030", ["Pl."],   [],      "stephanus"),
+        (
+            "urn:cts:greekLit:tlg0012",
+            "urn:cts:greekLit:tlg0012.tlg001",
+            ["Hom."],
+            ["Il."],
+            "book.line",
+        ),
+        (
+            "urn:cts:greekLit:tlg0003",
+            "urn:cts:greekLit:tlg0003.tlg001",
+            ["Th."],
+            [],
+            "book.chapter.section",
+        ),
+        (
+            "urn:cts:greekLit:tlg0059",
+            "urn:cts:greekLit:tlg0059.tlg030",
+            ["Pl."],
+            [],
+            "stephanus",
+        ),
     ]
 
     for tg_urn, w_urn, name_abbrevs, title_abbrevs, scheme in checks:
@@ -140,7 +158,9 @@ def verify(gazetteer: dict) -> bool:
             continue
         for abbr in name_abbrevs:
             if abbr not in tg["name_abbrevs"]:
-                print(f"FAIL: {abbr!r} not in name_abbrevs for {tg_urn}", file=sys.stderr)
+                print(
+                    f"FAIL: {abbr!r} not in name_abbrevs for {tg_urn}", file=sys.stderr
+                )
                 ok = False
         w = tg["works"].get(w_urn)
         if w is None:
@@ -149,10 +169,15 @@ def verify(gazetteer: dict) -> bool:
             continue
         for abbr in title_abbrevs:
             if abbr not in w["title_abbrevs"]:
-                print(f"FAIL: {abbr!r} not in title_abbrevs for {w_urn}", file=sys.stderr)
+                print(
+                    f"FAIL: {abbr!r} not in title_abbrevs for {w_urn}", file=sys.stderr
+                )
                 ok = False
         if w["scheme"] != scheme:
-            print(f"FAIL: {w_urn} scheme={w['scheme']!r}, expected {scheme!r}", file=sys.stderr)
+            print(
+                f"FAIL: {w_urn} scheme={w['scheme']!r}, expected {scheme!r}",
+                file=sys.stderr,
+            )
             ok = False
         else:
             print(f"OK  : {w_urn} scheme={scheme!r} abbrevs OK", file=sys.stderr)
@@ -176,7 +201,7 @@ def verify(gazetteer: dict) -> bool:
     # Smoke-test Gazetteer round-trip
     try:
         sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
-        from citation_resolution.tei_cts_linker import Gazetteer  # type: ignore
+        from citation_resolution.tei_cts_linker import Gazetteer
 
         gaz = Gazetteer.from_dict(gazetteer)
         authors = gaz.author_for("Hom.")
@@ -184,7 +209,10 @@ def verify(gazetteer: dict) -> bool:
         work = gaz.work_for(authors[0], "Il.")
         assert work is not None, "Il. not found under Homer"
         assert work.scheme == "book.line", f"Iliad scheme={work.scheme!r}"
-        print(f"OK  : Gazetteer round-trip: Hom. Il. -> {work.work_urn} [{work.scheme}]", file=sys.stderr)
+        print(
+            f"OK  : Gazetteer round-trip: Hom. Il. -> {work.work_urn} [{work.scheme}]",
+            file=sys.stderr,
+        )
     except Exception as exc:
         print(f"FAIL: Gazetteer round-trip: {exc}", file=sys.stderr)
         ok = False
@@ -215,11 +243,13 @@ def _build_parser() -> argparse.ArgumentParser:
     )
     p.add_argument(
         "--output",
-        default="kb/data/gazetteer.json",
+        default="src/citation_resolution/data/gazetteer.json",
         metavar="PATH",
         help="output merged gazetteer (default: kb/data/gazetteer.json)",
     )
-    p.add_argument("--verify", action="store_true", help="run spot-checks after writing")
+    p.add_argument(
+        "--verify", action="store_true", help="run spot-checks after writing"
+    )
     p.add_argument(
         "--log",
         metavar="PATH",
@@ -249,13 +279,27 @@ def main(argv: list[str] | None = None) -> int:
 
     tg_count = len(gazetteer)
     work_count = sum(len(r["works"]) for r in gazetteer.values())
-    print(f"\nWrote {out_path}: {tg_count:,} textgroups, {work_count:,} works", file=sys.stderr)
+    print(
+        f"\nWrote {out_path}: {tg_count:,} textgroups, {work_count:,} works",
+        file=sys.stderr,
+    )
     print(f"  textgroups HuCit-only: {len(log['tg_hucit_only']):,}", file=sys.stderr)
     print(f"  textgroups CTS-only:   {len(log['tg_cts_only']):,}", file=sys.stderr)
-    print(f"  works HuCit-only (shared tg): {len(log['work_hucit_only']):,}", file=sys.stderr)
-    print(f"  works CTS-only (shared tg):   {len(log['work_cts_only']):,}", file=sys.stderr)
-    print(f"  schemes promoted flat→real:   {log['schemes_promoted']:,}", file=sys.stderr)
-    print(f"  schemes still flat:           {log['schemes_still_flat']:,}", file=sys.stderr)
+    print(
+        f"  works HuCit-only (shared tg): {len(log['work_hucit_only']):,}",
+        file=sys.stderr,
+    )
+    print(
+        f"  works CTS-only (shared tg):   {len(log['work_cts_only']):,}",
+        file=sys.stderr,
+    )
+    print(
+        f"  schemes promoted flat→real:   {log['schemes_promoted']:,}", file=sys.stderr
+    )
+    print(
+        f"  schemes still flat:           {log['schemes_still_flat']:,}",
+        file=sys.stderr,
+    )
 
     if args.log:
         log_path = Path(args.log)
