@@ -4,10 +4,12 @@
       "Diog.",
       "D. L."
     ],
-    "default_work": null,
+    "default_work": "D. L.",
     "works": {
       "urn:cts:greekLit:tlg0004.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "D. L."
+        ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:cwkb:836.2078": {
@@ -38,7 +40,8 @@
       },
       "urn:cts:greekLit:tlg0074.tlg004": {
         "title_abbrevs": [
-          "Peripl. M. Eux."
+          "Peripl. M. Eux.",
+          "Peripl."
         ],
         "scheme": "chapter.section"
       },
@@ -88,19 +91,23 @@
     "works": {
       "urn:cts:greekLit:tlg0019.tlg010": {
         "title_abbrevs": [
-          "Ec."
+          "Ec.",
+          "Eccl."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0019.tlg008": {
         "title_abbrevs": [
           "Th.",
-          "Thesm."
+          "Thesm.",
+          "Thes."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0019.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Peace"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0019.tlg011": {
@@ -111,13 +118,15 @@
       },
       "urn:cts:greekLit:tlg0019.tlg002": {
         "title_abbrevs": [
-          "Eq."
+          "Eq.",
+          "Kn."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0019.tlg003": {
         "title_abbrevs": [
-          "Nu."
+          "Nu.",
+          "Cl."
         ],
         "scheme": "line"
       },
@@ -129,19 +138,22 @@
       },
       "urn:cts:greekLit:tlg0019.tlg004": {
         "title_abbrevs": [
-          "V."
+          "V.",
+          "Wasps"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0019.tlg006": {
         "title_abbrevs": [
-          "Au."
+          "Au.",
+          "Birds"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0019.tlg009": {
         "title_abbrevs": [
-          "Ra."
+          "Ra.",
+          "Frogs"
         ],
         "scheme": "line"
       },
@@ -166,11 +178,15 @@
     }
   },
   "urn:cts:greekLit:tlg0647": {
-    "name_abbrevs": [],
-    "default_work": null,
+    "name_abbrevs": [
+      "Tryph."
+    ],
+    "default_work": "Tryph.",
     "works": {
       "urn:cts:greekLit:tlg0647.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tryph."
+        ],
         "scheme": "line"
       }
     }
@@ -184,7 +200,8 @@
     "works": {
       "urn:cts:greekLit:tlg0526.tlg001": {
         "title_abbrevs": [
-          "AI"
+          "AI",
+          "AJ"
         ],
         "scheme": "book.section"
       },
@@ -196,7 +213,8 @@
       },
       "urn:cts:greekLit:tlg0526.tlg004": {
         "title_abbrevs": [
-          "BI"
+          "BI",
+          "BJ"
         ],
         "scheme": "section.section"
       },
@@ -356,13 +374,15 @@
   },
   "urn:cts:greekLit:tlg2045": {
     "name_abbrevs": [
-      "Nonn."
+      "Nonn.",
+      "Nonn. D."
     ],
-    "default_work": null,
+    "default_work": "Nonn. D.",
     "works": {
       "urn:cts:greekLit:tlg2045.tlg001": {
         "title_abbrevs": [
-          "D."
+          "D.",
+          "Nonn. D."
         ],
         "scheme": "book.line"
       },
@@ -393,11 +413,15 @@
         "scheme": "fragment"
       },
       "urn:cts:greekLit:tlg0551.tlg009": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Pun."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0551.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Reg."
+        ],
         "scheme": "fragment"
       },
       "urn:cts:greekLit:tlg0551.tlg001": {
@@ -431,7 +455,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0551.tlg007": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Hisp."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0551.tlg013": {
@@ -447,7 +473,9 @@
         "scheme": "book.chapter.section"
       },
       "urn:cts:greekLit:tlg0551.tlg008": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Hann."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0551.tlg011": {
@@ -482,22 +510,29 @@
   },
   "urn:cts:greekLit:tlg0341": {
     "name_abbrevs": [
-      "Lyc."
+      "Lyc.",
+      "Lycophr."
     ],
-    "default_work": null,
+    "default_work": "Lycophr.",
     "works": {
       "urn:cts:greekLit:tlg0341.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Lycophr."
+        ],
         "scheme": "line"
       }
     }
   },
   "urn:cts:greekLit:tlg2934": {
-    "name_abbrevs": [],
-    "default_work": null,
+    "name_abbrevs": [
+      "Jo. Dam."
+    ],
+    "default_work": "Jo. Dam.",
     "works": {
       "urn:cts:greekLit:tlg2934.tlg066": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Jo. Dam."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:cwkb:2401.9186": {
@@ -522,271 +557,399 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0014.tlg047": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "47"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg024": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "24"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "3"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg006": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "6"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg016": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "16"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg011": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "11"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg042": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "42"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg020": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "20"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg052": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "52"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg022": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "22"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg027": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "27"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg059": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "59"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg037": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "37"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg040": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "40"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg053": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "53"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg025": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "25"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg046": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "46"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg019": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "19"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg017": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "17"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg054": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "54"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg050": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "50"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg008": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "8"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg043": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "43"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "5"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg031": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "31"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg060": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "60"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg021": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "21"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg055": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "55"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg004": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "4"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg014": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "14"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg009": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "9"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg034": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "34"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg033": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "33"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg013": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "13"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg063": {
         "title_abbrevs": [
           "ep.",
-          "epist."
+          "epist.",
+          "L."
         ],
         "scheme": "Letter.Section"
       },
       "urn:cts:greekLit:tlg0014.tlg057": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "57"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg010": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "10"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg032": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "32"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg041": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "41"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg062": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ex."
+        ],
         "scheme": "Exordium.Section"
       },
       "urn:cts:greekLit:tlg0014.tlg036": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "36"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg061": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "61"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg048": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "48"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg056": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "56"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg035": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "35"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg028": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "28"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg038": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "38"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg039": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "39"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg018": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "18"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg049": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "49"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg058": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "58"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg045": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "45"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg023": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "23"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg029": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "29"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg044": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "44"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg026": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "26"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "2"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg030": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "30"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg015": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "15"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg007": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "7"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg051": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "51"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0014.tlg012": {
         "canonical_title": "Philip’s Letter",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "12"
+        ],
         "scheme": "section"
       }
     }
   },
   "urn:cts:latinLit:phi0975": {
     "name_abbrevs": [
-      "Phaedr."
+      "Phaedr.",
+      "Phaed."
     ],
-    "default_work": null,
+    "default_work": "Phaed.",
     "works": {
       "urn:cts:latinLit:phi0975.phi001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Phaed."
+        ],
         "scheme": "book.poem.line"
       },
       "urn:cts:cwkb:580.1182": {
@@ -838,37 +1001,43 @@
     "works": {
       "urn:cts:greekLit:tlg0086.tlg029": {
         "title_abbrevs": [
-          "Oec."
+          "Oec.",
+          "Econ."
         ],
         "scheme": "book.section.subsection"
       },
       "urn:cts:greekLit:tlg0086.tlg003": {
         "title_abbrevs": [
-          "Ath."
+          "Ath.",
+          "Const. Ath.; Aristot. Ath. Pol."
         ],
         "scheme": "section.subsection"
       },
       "urn:cts:greekLit:tlg0086.tlg045": {
         "title_abbrevs": [
-          "VV"
+          "VV",
+          "Vir."
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0086.tlg010": {
         "title_abbrevs": [
-          "EN"
+          "EN",
+          "Nic. Eth."
         ],
         "scheme": "book.section.subsection"
       },
       "urn:cts:greekLit:tlg0086.tlg009": {
         "title_abbrevs": [
-          "EE"
+          "EE",
+          "Eud. Eth."
         ],
         "scheme": "book.section.subsection"
       },
       "urn:cts:greekLit:tlg0086.tlg025": {
         "title_abbrevs": [
-          "Metaph."
+          "Metaph.",
+          "Met."
         ],
         "scheme": "book.section.subsection"
       },
@@ -886,7 +1055,8 @@
       },
       "urn:cts:greekLit:tlg0086.tlg034": {
         "title_abbrevs": [
-          "Po."
+          "Po.",
+          "Poet."
         ],
         "scheme": "chapter"
       },
@@ -1132,15 +1302,21 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0029.tlg006": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "3"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0029.tlg004": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0029.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "2"
+        ],
         "scheme": "section"
       },
       "urn:cts:cwkb:833.4582": {
@@ -1160,15 +1336,21 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0026.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0026.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "2"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0026.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "3"
+        ],
         "scheme": "section"
       },
       "urn:cts:cwkb:717.1455": {
@@ -1188,32 +1370,37 @@
     "works": {
       "urn:cts:latinLit:phi1351.phi005": {
         "title_abbrevs": [
-          "ann."
+          "ann.",
+          "Ann."
         ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi1351.phi004": {
         "title_abbrevs": [
           "hist.",
-          "hist. frg."
+          "hist. frg.",
+          "Hist."
         ],
         "scheme": "book.chapter"
       },
       "urn:cts:latinLit:phi1351.phi002": {
         "title_abbrevs": [
-          "Germ."
+          "Germ.",
+          "Ger."
         ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi1351.phi001": {
         "title_abbrevs": [
-          "Agr."
+          "Agr.",
+          "Ag."
         ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi1351.phi003": {
         "title_abbrevs": [
-          "dial."
+          "dial.",
+          "Dial."
         ],
         "scheme": "flat"
       }
@@ -1351,37 +1538,43 @@
     "works": {
       "urn:cts:greekLit:tlg0030.tlg005": {
         "title_abbrevs": [
-          "Ath."
+          "Ath.",
+          "5"
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0030.tlg003": {
         "title_abbrevs": [
-          "Eux."
+          "Eux.",
+          "3"
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0030.tlg001": {
         "title_abbrevs": [
-          "Dem."
+          "Dem.",
+          "1"
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0030.tlg004": {
         "title_abbrevs": [
-          "Phil."
+          "Phil.",
+          "4"
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0030.tlg002": {
         "title_abbrevs": [
-          "Lyc."
+          "Lyc.",
+          "2"
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0030.tlg006": {
         "title_abbrevs": [
-          "Epit."
+          "Epit.",
+          "6"
         ],
         "scheme": "section"
       },
@@ -1411,10 +1604,12 @@
     "name_abbrevs": [
       "Q. S."
     ],
-    "default_work": null,
+    "default_work": "Q. S.",
     "works": {
       "urn:cts:greekLit:tlg2046.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Q. S."
+        ],
         "scheme": "book.line"
       }
     }
@@ -1428,13 +1623,15 @@
     "works": {
       "urn:cts:latinLit:phi0631.phi002": {
         "title_abbrevs": [
-          "Iug."
+          "Iug.",
+          "Jug."
         ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi0631.phi001": {
         "title_abbrevs": [
-          "Catil."
+          "Catil.",
+          "Cat."
         ],
         "scheme": "chapter"
       },
@@ -1446,7 +1643,9 @@
       },
       "urn:cts:latinLit:phi0631.phi003": {
         "canonical_title": "Historiae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Hist."
+        ],
         "scheme": "book.section"
       }
     }
@@ -1455,10 +1654,12 @@
     "name_abbrevs": [
       "Arat."
     ],
-    "default_work": null,
+    "default_work": "Arat.",
     "works": {
       "urn:cts:greekLit:tlg0653.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Arat."
+        ],
         "scheme": "line"
       },
       "urn:cts:cwkb:753.1575": {
@@ -1555,123 +1756,183 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0010.tlg010": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "11"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg009": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "10"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg016": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "6"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "20"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg008": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "13"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg027": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "L. 2"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg028": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "L. 5"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "21"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg029": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "L. 4"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg018": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "7"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg024": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "L. 9"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg013": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "2"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg020": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "5"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "18"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg021": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "12"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg007": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg017": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "8"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg019": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "15"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg004": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "16"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg022": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "L. 1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg026": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "L. 7"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg015": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "9"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg012": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "14"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg025": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "L. 8"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg023": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "L. 6"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg014": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "3"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "17"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg011": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "4"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg030": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "L. 3"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0010.tlg006": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "19"
+        ],
         "scheme": "section"
       }
     }
@@ -1681,7 +1942,7 @@
       "Th.",
       "Thuc."
     ],
-    "default_work": null,
+    "default_work": "Thuc.",
     "works": {
       "urn:cts:greekLit:tlg0003.tlg001": {
         "title_abbrevs": [
@@ -1699,12 +1960,15 @@
     }
   },
   "urn:cts:greekLit:tlg7000": {
-    "name_abbrevs": [],
-    "default_work": null,
+    "name_abbrevs": [
+      "Anth. Gr."
+    ],
+    "default_work": "Anth. Gr.",
     "works": {
       "urn:cts:greekLit:tlg7000.tlg001": {
         "title_abbrevs": [
-          "AG"
+          "AG",
+          "Anth. Gr."
         ],
         "scheme": "book.epigram"
       }
@@ -1719,19 +1983,27 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0027.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "3"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0027.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0027.tlg004": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "4"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0027.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "2"
+        ],
         "scheme": "section"
       }
     }
@@ -1739,19 +2011,22 @@
   "urn:cts:greekLit:tlg0085": {
     "name_abbrevs": [
       "A.",
-      "Aeschylus."
+      "Aeschylus.",
+      "Aesch."
     ],
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0085.tlg006": {
         "title_abbrevs": [
-          "Ch."
+          "Ch.",
+          "Lib."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0085.tlg007": {
         "title_abbrevs": [
-          "Eu."
+          "Eu.",
+          "Eum."
         ],
         "scheme": "line"
       },
@@ -1763,13 +2038,15 @@
       },
       "urn:cts:greekLit:tlg0085.tlg004": {
         "title_abbrevs": [
-          "Th."
+          "Th.",
+          "Seven"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0085.tlg003": {
         "title_abbrevs": [
-          "Pr."
+          "Pr.",
+          "PB"
         ],
         "scheme": "line"
       },
@@ -1781,7 +2058,8 @@
       },
       "urn:cts:greekLit:tlg0085.tlg005": {
         "title_abbrevs": [
-          "A."
+          "A.",
+          "Ag."
         ],
         "scheme": "line"
       },
@@ -1806,7 +2084,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg4029.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Pers."
+        ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:cwkb:1429.4571": {
@@ -1875,14 +2155,16 @@
     "works": {
       "urn:cts:greekLit:tlg0059.tlg030": {
         "title_abbrevs": [
-          "R."
+          "R.",
+          "Rep."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg036": {
         "title_abbrevs": [
           "epist.",
-          "ep."
+          "ep.",
+          "L."
         ],
         "scheme": "letter.section"
       },
@@ -1894,165 +2176,215 @@
       },
       "urn:cts:greekLit:tlg0059.tlg006": {
         "title_abbrevs": [
-          "Tht."
+          "Tht.",
+          "Theaet."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg016": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Lovers"
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg020": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Lysis"
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg034": {
         "title_abbrevs": [
-          "Lg."
+          "Lg.",
+          "Laws"
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg029": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cleit."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg035": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Epin."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg015": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Hipparch."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg003": {
         "title_abbrevs": [
-          "Cri."
+          "Cri.",
+          "Crito"
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg026": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Hipp. Min."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg017": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Theag."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg008": {
         "title_abbrevs": [
-          "Plt."
+          "Plt.",
+          "Stat."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg028": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Menex."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg005": {
         "title_abbrevs": [
-          "Cra."
+          "Cra.",
+          "Crat."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg014": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Alc. 2"
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg007": {
         "title_abbrevs": [
-          "Sph."
+          "Sph.",
+          "Soph."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg012": {
         "title_abbrevs": [
-          "Phdr."
+          "Phdr.",
+          "Phaedrus"
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg025": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Hipp. Maj."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg022": {
         "title_abbrevs": [
-          "Prt."
+          "Prt.",
+          "Prot."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg002": {
         "title_abbrevs": [
-          "Ap."
+          "Ap.",
+          "Apol."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg004": {
         "title_abbrevs": [
-          "Phd."
+          "Phd.",
+          "Phaedo"
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg023": {
         "title_abbrevs": [
-          "Grg."
+          "Grg.",
+          "Gorg."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg021": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Euthyd."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg011": {
         "title_abbrevs": [
-          "Smp."
+          "Smp.",
+          "Sym."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg033": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Minos"
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg027": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ion"
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg018": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Charm."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg024": {
         "title_abbrevs": [
-          "Men."
+          "Men.",
+          "Meno"
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg019": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Lach."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Euthyph."
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg013": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Alc. 1"
+        ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg009": {
         "title_abbrevs": [
-          "Prm."
+          "Prm.",
+          "Parm."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg031": {
         "title_abbrevs": [
-          "Ti."
+          "Ti.",
+          "Tim."
         ],
         "scheme": "stephanus"
       },
       "urn:cts:greekLit:tlg0059.tlg010": {
         "title_abbrevs": [
-          "Phlb."
+          "Phlb.",
+          "Phileb."
         ],
         "scheme": "stephanus"
       },
@@ -2376,11 +2708,15 @@
     }
   },
   "urn:cts:greekLit:tlg0561": {
-    "name_abbrevs": [],
-    "default_work": null,
+    "name_abbrevs": [
+      "Longus"
+    ],
+    "default_work": "Longus",
     "works": {
       "urn:cts:greekLit:tlg0561.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Longus"
+        ],
         "scheme": "book.chapter.section"
       }
     }
@@ -2403,10 +2739,12 @@
       "Str.",
       "Strab."
     ],
-    "default_work": null,
+    "default_work": "Strab.",
     "works": {
       "urn:cts:greekLit:tlg0099.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Strab."
+        ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:cwkb:1093.8131": {
@@ -2423,19 +2761,22 @@
     "works": {
       "urn:cts:latinLit:phi0690.phi001": {
         "title_abbrevs": [
-          "ecl."
+          "ecl.",
+          "Ecl."
         ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:phi0690.phi002": {
         "title_abbrevs": [
-          "georg."
+          "georg.",
+          "G."
         ],
         "scheme": "book.card"
       },
       "urn:cts:latinLit:phi0690.phi003": {
         "title_abbrevs": [
-          "Aen."
+          "Aen.",
+          "A."
         ],
         "scheme": "Book.line"
       }
@@ -2446,10 +2787,12 @@
       "D. S.",
       "Diod."
     ],
-    "default_work": null,
+    "default_work": "Diod.",
     "works": {
       "urn:cts:greekLit:tlg0060.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Diod."
+        ],
         "scheme": ".."
       },
       "urn:cts:cwkb:2431.8001": {
@@ -2462,10 +2805,12 @@
     "name_abbrevs": [
       "Ascl."
     ],
-    "default_work": null,
+    "default_work": "Ascl.",
     "works": {
       "urn:cts:greekLit:tlg0556.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ascl."
+        ],
         "scheme": "chapter.section"
       }
     }
@@ -2484,10 +2829,12 @@
     "name_abbrevs": [
       "Colluth."
     ],
-    "default_work": null,
+    "default_work": "Colluth.",
     "works": {
       "urn:cts:greekLit:tlg4081.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Colluth."
+        ],
         "scheme": "flat"
       }
     }
@@ -2499,139 +2846,207 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0540.tlg004": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "4"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg011": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "11"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg017": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "17"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg020": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "20"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg016": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "16"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg006": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "6"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg008": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "8"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg014": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "14"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg018": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "18"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg026": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "26"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg027": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "27"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg029": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "29"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg025": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "25"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg024": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "24"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg031": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "31"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg009": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "9"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg032": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "32"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg028": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "28"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg023": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "23"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg034": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "34"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "3"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg007": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "7"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "2"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg012": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "12"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg013": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "13"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg030": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "30"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg022": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "22"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg019": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "19"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "5"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg010": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "10"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg015": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "15"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg033": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "33"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0540.tlg021": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "21"
+        ],
         "scheme": "section"
       },
       "urn:cts:cwkb:959.4466": {
@@ -2687,14 +3102,16 @@
   },
   "urn:cts:greekLit:tlg0612": {
     "name_abbrevs": [
-      "D. Chr."
+      "D. Chr.",
+      "D.Chr."
     ],
-    "default_work": null,
+    "default_work": "D.Chr.",
     "works": {
       "urn:cts:greekLit:tlg0612.tlg001": {
         "title_abbrevs": [
           "orat.",
-          "or."
+          "or.",
+          "D.Chr."
         ],
         "scheme": "speech.section"
       },
@@ -2706,12 +3123,15 @@
   },
   "urn:cts:greekLit:tlg0648": {
     "name_abbrevs": [
-      "Onas."
+      "Onas.",
+      "Onos."
     ],
-    "default_work": null,
+    "default_work": "Onos.",
     "works": {
       "urn:cts:greekLit:tlg0648.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Onos."
+        ],
         "scheme": "chapter.section"
       }
     }
@@ -2720,10 +3140,12 @@
     "name_abbrevs": [
       "Parth."
     ],
-    "default_work": null,
+    "default_work": "Parth.",
     "works": {
       "urn:cts:greekLit:tlg0655.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Parth."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:cwkb:1028.3513": {
@@ -2736,81 +3158,111 @@
   },
   "urn:cts:greekLit:tlg0532": {
     "name_abbrevs": [
-      "Ach.Tat."
+      "Ach.Tat.",
+      "Ach. Tat."
     ],
-    "default_work": null,
+    "default_work": "Ach. Tat.",
     "works": {
       "urn:cts:greekLit:tlg0532.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ach. Tat."
+        ],
         "scheme": "book.chapter.section"
       }
     }
   },
   "urn:cts:greekLit:tlg0017": {
     "name_abbrevs": [
-      "Is."
+      "Is.",
+      "Isaeus"
     ],
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0017.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "3"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg009": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "9"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg008": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "8"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg006": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "6"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg011": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "11"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg010": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "10"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "5"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg004": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "4"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg007": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "7"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg012": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "12"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0017.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "2"
+        ],
         "scheme": "section"
       }
     }
   },
   "urn:cts:greekLit:tlg0023": {
     "name_abbrevs": [
-      "Opp."
+      "Opp.",
+      "Opp. H."
     ],
-    "default_work": null,
+    "default_work": "Opp. H.",
     "works": {
       "urn:cts:greekLit:tlg0023.tlg001": {
         "title_abbrevs": [
-          "H."
+          "H.",
+          "Opp. H."
         ],
         "scheme": "book.line"
       }
@@ -2824,43 +3276,51 @@
     "works": {
       "urn:cts:greekLit:tlg0533.tlg019": {
         "title_abbrevs": [
-          "Lau. Pall."
+          "Lau. Pall.",
+          "H. 5; Call Lav.",
+          "H. 5; Call.Lav."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0533.tlg020": {
         "title_abbrevs": [
-          "Cer."
+          "Cer.",
+          "H. 6; Call.Cer.; Call.Dem."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0533.tlg016": {
         "title_abbrevs": [
-          "Ap."
+          "Ap.",
+          "H. 2; Call.Ap;"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0533.tlg015": {
         "title_abbrevs": [
-          "Iou."
+          "Iou.",
+          "H. 1; Call.Jov."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0533.tlg018": {
         "title_abbrevs": [
-          "Del."
+          "Del.",
+          "H. 4; Call.Del."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0533.tlg017": {
         "title_abbrevs": [
-          "Dian."
+          "Dian.",
+          "H. 3; Call.Dian"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0533.tlg003": {
         "title_abbrevs": [
-          "epigr."
+          "epigr.",
+          "Epigr."
         ],
         "scheme": "epigram.line"
       },
@@ -2898,7 +3358,9 @@
       },
       "urn:cts:greekLit:tlg0533.tlg004": {
         "canonical_title": "Epigrams and Fragments",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Epig"
+        ],
         "scheme": "epigram.line"
       }
     }
@@ -2911,27 +3373,39 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0007.tlg076": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cons. Ap."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg056": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Dem. Cic."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg086": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Fort. Rom."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Thes. Rom."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg028": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Flam."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg068": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Adolescens"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg022": {
@@ -2947,7 +3421,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg020": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Tim. Aem."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg065": {
@@ -2963,11 +3439,15 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg091": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Pyth."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg073": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Amic."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg011": {
@@ -2983,39 +3463,57 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg125": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Quaes. Nat."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:greekLit:tlg0007.tlg083": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Mulier."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg130": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Bruta"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg097": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Frat."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg104": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Vitioso"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg105": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Invidia"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg026": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Aristid. Cat."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg040": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Nic. Crass."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg075": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "VV"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg048": {
@@ -3025,7 +3523,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg115": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Maxime"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg055": {
@@ -3035,15 +3535,21 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg134": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Animae"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg089": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Iside"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg126": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Faciae"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg032": {
@@ -3059,11 +3565,15 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg127": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Primo"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg123": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Herod."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg050": {
@@ -3073,7 +3583,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg135": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Epit."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg010": {
@@ -3083,31 +3595,45 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg070": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Adulator"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg140": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Adv. Col."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg109": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Genio"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg110": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Exilio"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg060": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Dio"
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg043": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Eum. Sert."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg094": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Virt. Mor."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg012": {
@@ -3117,7 +3643,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg102": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Cur."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg064": {
@@ -3133,19 +3661,27 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg099": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "An Viti."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg139": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Non Posse"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg133": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Plat."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg017": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Alc. Cor."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg063": {
@@ -3155,7 +3691,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg098": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Amore"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg004": {
@@ -3165,23 +3703,33 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg111": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cons. Uxor."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg084a": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Quaes. Rom."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg078": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Conjug."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg092": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Defect."
+        ],
         "scheme": "flat"
       },
       "urn:cts:greekLit:tlg0007.tlg129": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Soll."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg057": {
@@ -3191,7 +3739,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg141": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Latenter"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg061": {
@@ -3201,15 +3751,21 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg095": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Cohib."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg117": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "An Seni"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg136": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Stoic."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg008": {
@@ -3219,11 +3775,15 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg121": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Vit. Dec."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:greekLit:tlg0007.tlg009": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Sol. Publ."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg027": {
@@ -3239,11 +3799,15 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg085": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Para."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg081": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Regum"
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg018": {
@@ -3253,7 +3817,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg077": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Tuenda"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg013": {
@@ -3269,7 +3835,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg093": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "An Virtus"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg044": {
@@ -3279,7 +3847,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg037": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Cim. Luc."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg025": {
@@ -3289,7 +3859,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg138": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Comm."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg007": {
@@ -3299,7 +3871,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg131": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Esu 1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg036": {
@@ -3309,27 +3883,39 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg029": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Phil. Flam."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg006": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Lyc. Num."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg106": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Se Ipsum"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg118": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Praecepta"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg074": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Fortuna"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg112": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Quaes. Conv."
+        ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg035": {
@@ -3345,19 +3931,27 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg071": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Quis Suos"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg128": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Aquane"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg023": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Pel. Marc."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg100": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Animine"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg005": {
@@ -3367,7 +3961,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg108": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Fato"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg066": {
@@ -3377,7 +3973,9 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg067": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Lib."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg001": {
@@ -3393,11 +3991,15 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg114": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Amatoriae"
+        ],
         "scheme": "chapter"
       },
       "urn:cts:greekLit:tlg0007.tlg082": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Apoph."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg058": {
@@ -3407,31 +4009,45 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg014": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Per. Fab."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg103": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Cup."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg132": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Esu 2"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg080": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Super."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg062": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Dion. Brut."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg107": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Sera"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg046": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Ages. Pomp."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg033": {
@@ -3441,15 +4057,21 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg087": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Alex."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg137": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Stoicos"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg034": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Lys. Sull."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg039": {
@@ -3459,11 +4081,15 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg079": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Septem."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg072": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Capienda"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg015": {
@@ -3479,19 +4105,27 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg088": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Gloria"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg120": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Vitando"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg096": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Tranq."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg069": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Recta"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg045": {
@@ -3501,11 +4135,15 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg113": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Amatorius"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg059": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Demetr. Ant."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg030": {
@@ -3515,19 +4153,27 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg090": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De E"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg101": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Garr."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg053": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp. Ag. Gracch."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg016": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cor."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg021": {
@@ -3537,15 +4183,21 @@
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg119": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "De Unius"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg116": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ad Princ."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg122": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Compar."
+        ],
         "scheme": "section"
       },
       "urn:cts:cwkb:1052.3735": {
@@ -3583,7 +4235,9 @@
       },
       "urn:cts:greekLit:tlg0007.tlg082b": {
         "canonical_title": "Lacaenarum Apophthegmata",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Lacae."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0007.tlg052": {
@@ -3593,244 +4247,389 @@
       },
       "urn:cts:greekLit:tlg0007.tlg082a": {
         "canonical_title": "Instituta Laconia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Inst."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0007.tlg084b": {
         "canonical_title": "Quaestiones Graecae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Quaes. Gr."
+        ],
         "scheme": "section"
+      },
+      "urn:cts:greekLit:tlg0007.tlg051a": {
+        "canonical_title": "Agis",
+        "title_abbrevs": [
+          "Agis"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:greekLit:tlg0007.tlg051b": {
+        "canonical_title": "Cleomenes",
+        "title_abbrevs": [
+          "Cleom."
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:greekLit:tlg0007.tlg052a": {
+        "canonical_title": "Tiberius Gracchus",
+        "title_abbrevs": [
+          "TG"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:greekLit:tlg0007.tlg052b": {
+        "canonical_title": "Caius Gracchus",
+        "title_abbrevs": [
+          "CG"
+        ],
+        "scheme": "flat"
       }
     }
   },
   "urn:cts:greekLit:tlg0284": {
     "name_abbrevs": [
-      "Aristid."
+      "Aristid.",
+      "Ael."
     ],
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0284.tlg047": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 47"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg016": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 16"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg021": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 21"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg024": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 24"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg014": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 14"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg043": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 43"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg048": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 48"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg051": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 51"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg026": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 26"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg045": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 45"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg033": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 33"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg020": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 20"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg017": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 17"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg052": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 52"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg015": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 15"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg029": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 29"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg041": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 41"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg006": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 6"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg050": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 50"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg044": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 44"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg056": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Ars"
+        ],
         "scheme": "book.chapter.section.subsection"
       },
       "urn:cts:greekLit:tlg0284.tlg011": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 11"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg046": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 46"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg030": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 30"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg053": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 53"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg019": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 19"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg018": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 18"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg013": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 13"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg010": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 10"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg039": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 39"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg023": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 23"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg037": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 37"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg054": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 54"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg031": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 31"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 1"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg055": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 55"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0284.tlg032": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 32"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg007": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 7"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg009": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 9"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg028": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 28"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg049": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 49"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg025": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 25"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg012": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 12"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 3"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg034": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 34"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg036": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 36"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 5"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg035": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 35"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg042": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 42"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg027": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 27"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg004": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 4"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg008": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 8"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg022": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 22"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg038": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 38"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg040": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 40"
+        ],
         "scheme": "Jebb_page"
       },
       "urn:cts:greekLit:tlg0284.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar. Orat. 2"
+        ],
         "scheme": "Jebb_page"
       }
     }
@@ -3839,10 +4638,12 @@
     "name_abbrevs": [
       "Euc."
     ],
-    "default_work": null,
+    "default_work": "Euc.",
     "works": {
       "urn:cts:greekLit:tlg1799.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Euc."
+        ],
         "scheme": "book.type.number"
       },
       "urn:cts:cwkb:861.2274": {
@@ -3884,11 +4685,15 @@
     }
   },
   "urn:cts:greekLit:tlg0652": {
-    "name_abbrevs": [],
-    "default_work": null,
+    "name_abbrevs": [
+      "Philostr. Jun. Im."
+    ],
+    "default_work": "Philostr. Jun. Im.",
     "works": {
       "urn:cts:greekLit:tlg0652.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Philostr. Jun. Im."
+        ],
         "scheme": "chapter"
       }
     }
@@ -3901,25 +4706,29 @@
     "works": {
       "urn:cts:latinLit:phi0134.phi001": {
         "title_abbrevs": [
-          "Andr."
+          "Andr.",
+          "An."
         ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi0134.phi004": {
         "title_abbrevs": [
-          "Phorm."
+          "Phorm.",
+          "Ph."
         ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi0134.phi003": {
         "title_abbrevs": [
-          "Eun."
+          "Eun.",
+          "Eu."
         ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi0134.phi002": {
         "title_abbrevs": [
-          "Haut."
+          "Haut.",
+          "Hau."
         ],
         "scheme": "line"
       },
@@ -3939,12 +4748,15 @@
   },
   "urn:cts:greekLit:tlg0057": {
     "name_abbrevs": [
-      "Gal."
+      "Gal.",
+      "Gal. Nat. Fac."
     ],
-    "default_work": null,
+    "default_work": "Gal. Nat. Fac.",
     "works": {
       "urn:cts:greekLit:tlg0057.tlg010": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Gal. Nat. Fac."
+        ],
         "scheme": "book.chapter"
       },
       "urn:cts:cwkb:890.2413": {
@@ -4397,7 +5209,8 @@
   },
   "urn:cts:greekLit:tlg0062": {
     "name_abbrevs": [
-      "Luc."
+      "Luc.",
+      "Lucian"
     ],
     "default_work": null,
     "works": {
@@ -4406,7 +5219,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg013": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cal."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg043": {
@@ -4434,15 +5249,21 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg047": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Eun."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg044": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tox."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg070": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Sol."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg041": {
@@ -4506,7 +5327,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg011": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Macr."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg016": {
@@ -4518,7 +5341,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Electr."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg035": {
@@ -4526,7 +5351,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg059": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Apol."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg052": {
@@ -4538,7 +5365,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg008": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Demon."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg015": {
@@ -4560,15 +5389,21 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg030": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Par."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Phal."
+        ],
         "scheme": "book.section"
       },
       "urn:cts:greekLit:tlg0062.tlg022": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tim."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg018": {
@@ -4596,7 +5431,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg039": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Im."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg061": {
@@ -4612,11 +5449,15 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg055": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Sat."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Bacch."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg012": {
@@ -4687,7 +5528,8 @@
       },
       "urn:cts:greekLit:tlg0062.tlg026": {
         "title_abbrevs": [
-          "Bis Acc."
+          "Bis Acc.",
+          "Bic. Acc."
         ],
         "scheme": "section"
       },
@@ -4705,7 +5547,8 @@
       },
       "urn:cts:greekLit:tlg0062.tlg050": {
         "title_abbrevs": [
-          "Deor. Con."
+          "Deor. Con.",
+          "Deor. Conc."
         ],
         "scheme": "section"
       },
@@ -4716,7 +5559,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg007": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Nigr."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0062.tlg032": {
@@ -4730,11 +5575,12 @@
       "Amm. Marc.",
       "Amm."
     ],
-    "default_work": null,
+    "default_work": "Amm.",
     "works": {
       "urn:cts:latinLit:stoa0023.stoa001": {
         "title_abbrevs": [
-          "RG"
+          "RG",
+          "Amm."
         ],
         "scheme": "book.chapter.section"
       }
@@ -4742,12 +5588,15 @@
   },
   "urn:cts:greekLit:tlg0034": {
     "name_abbrevs": [
-      "Lycurg."
+      "Lycurg.",
+      "Lyc. 1"
     ],
-    "default_work": null,
+    "default_work": "Lyc. 1",
     "works": {
       "urn:cts:greekLit:tlg0034.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Lyc. 1"
+        ],
         "scheme": "section"
       }
     }
@@ -4755,12 +5604,15 @@
   "urn:cts:latinLit:phi1254": {
     "name_abbrevs": [
       "Gell.",
-      "Fron."
+      "Fron.",
+      "Gel."
     ],
-    "default_work": null,
+    "default_work": "Gel.",
     "works": {
       "urn:cts:latinLit:phi1254.phi001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Gel."
+        ],
         "scheme": "book.chapter.section"
       }
     }
@@ -4769,11 +5621,12 @@
     "name_abbrevs": [
       "Plb."
     ],
-    "default_work": null,
+    "default_work": "Plb.",
     "works": {
       "urn:cts:greekLit:tlg0543.tlg001": {
         "title_abbrevs": [
-          "hist."
+          "hist.",
+          "Plb."
         ],
         "scheme": "book.chapter"
       },
@@ -4787,10 +5640,12 @@
     "name_abbrevs": [
       "Paus."
     ],
-    "default_work": null,
+    "default_work": "Paus.",
     "works": {
       "urn:cts:greekLit:tlg0525.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Paus."
+        ],
         "scheme": ".."
       }
     }
@@ -4816,7 +5671,9 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0627.tlg011": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Mochl."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0627.tlg012": {
@@ -4832,7 +5689,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0627.tlg014": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Lex"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0627.tlg029": {
@@ -4848,7 +5707,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0627.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "VM"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0627.tlg006": {
@@ -4859,12 +5720,15 @@
       },
       "urn:cts:greekLit:tlg0627.tlg013": {
         "title_abbrevs": [
-          "Iusi."
+          "Iusi.",
+          "Jusj."
         ],
         "scheme": "oath"
       },
       "urn:cts:greekLit:tlg0627.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Acut. Sp."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0627.tlg046": {
@@ -4893,7 +5757,8 @@
       },
       "urn:cts:greekLit:tlg0627.tlg002": {
         "title_abbrevs": [
-          "Aër."
+          "Aër.",
+          "Aer."
         ],
         "scheme": "section"
       },
@@ -4905,7 +5770,8 @@
       },
       "urn:cts:greekLit:tlg0627.tlg028": {
         "title_abbrevs": [
-          "Vlc."
+          "Vlc.",
+          "Ulc."
         ],
         "scheme": "section"
       },
@@ -4916,7 +5782,9 @@
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0627.tlg004": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Acut."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0627.tlg010": {
@@ -5123,11 +5991,12 @@
       "Catull.",
       "Catul."
     ],
-    "default_work": null,
+    "default_work": "Catul.",
     "works": {
       "urn:cts:latinLit:phi0472.phi001": {
         "title_abbrevs": [
-          "carm."
+          "carm.",
+          "Catul."
         ],
         "scheme": "poem.line"
       },
@@ -5141,12 +6010,15 @@
   },
   "urn:cts:greekLit:tlg0562": {
     "name_abbrevs": [
-      "M. Ant."
+      "M. Ant.",
+      "Aur."
     ],
-    "default_work": null,
+    "default_work": "Aur.",
     "works": {
       "urn:cts:greekLit:tlg0562.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Aur."
+        ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:cwkb:2913.800": {
@@ -5191,13 +6063,15 @@
   },
   "urn:cts:greekLit:tlg0024": {
     "name_abbrevs": [
-      "Opp."
+      "Opp.",
+      "Opp. C."
     ],
-    "default_work": null,
+    "default_work": "Opp. C.",
     "works": {
       "urn:cts:greekLit:tlg0024.tlg001": {
         "title_abbrevs": [
-          "C."
+          "C.",
+          "Opp. C."
         ],
         "scheme": "book.line"
       }
@@ -5207,11 +6081,12 @@
     "name_abbrevs": [
       "Hdt."
     ],
-    "default_work": null,
+    "default_work": "Hdt.",
     "works": {
       "urn:cts:greekLit:tlg0016.tlg001": {
         "title_abbrevs": [
-          "hist."
+          "hist.",
+          "Hdt."
         ],
         "scheme": "book.chapter.section"
       }
@@ -5224,27 +6099,39 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0028.tlg005": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "5"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0028.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "2"
+        ],
         "scheme": "tetralogy.section"
       },
       "urn:cts:greekLit:tlg0028.tlg004": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "4"
+        ],
         "scheme": "tetralogy.section"
       },
       "urn:cts:greekLit:tlg0028.tlg006": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "6"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0028.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "1"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0028.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "3"
+        ],
         "scheme": "tetralogy.section"
       },
       "urn:cts:cwkb:738.9621": {
@@ -5261,32 +6148,40 @@
     "name_abbrevs": [
       "Vitr."
     ],
-    "default_work": null,
+    "default_work": "Vitr.",
     "works": {
       "urn:cts:latinLit:phi1056.phi001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Vitr."
+        ],
         "scheme": "book.book.section"
       }
     }
   },
   "urn:cts:greekLit:tlg0094": {
     "name_abbrevs": [
-      "Ps.-Plu."
+      "Ps.-Plu.",
+      "Ps."
     ],
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0094.tlg001": {
         "title_abbrevs": [
-          "Fluv."
+          "Fluv.",
+          "Plut. Fluv."
         ],
         "scheme": "chapter"
       },
       "urn:cts:greekLit:tlg0094.tlg003": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Plut. Plac."
+        ],
         "scheme": "book.chapter"
       },
       "urn:cts:greekLit:tlg0094.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Plut. Mus."
+        ],
         "scheme": "section"
       },
       "urn:cts:cwkb:1376.8045": {
@@ -5307,55 +6202,65 @@
     "works": {
       "urn:cts:greekLit:tlg0032.tlg013": {
         "title_abbrevs": [
-          "Eq."
+          "Eq.",
+          "Horse."
         ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0032.tlg005": {
         "title_abbrevs": [
-          "Ap."
+          "Ap.",
+          "Apol."
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0032.tlg001": {
         "title_abbrevs": [
-          "HG"
+          "HG",
+          "Hell."
         ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:greekLit:tlg0032.tlg011": {
         "title_abbrevs": [
-          "Vect."
+          "Vect.",
+          "Ways"
         ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0032.tlg012": {
         "title_abbrevs": [
-          "Eq. Mag."
+          "Eq. Mag.",
+          "Cav."
         ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0032.tlg004": {
         "title_abbrevs": [
-          "Smp."
+          "Smp.",
+          "Sym."
         ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0032.tlg007": {
         "title_abbrevs": [
-          "Cyr."
+          "Cyr.",
+          "Cyrop."
         ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:greekLit:tlg0032.tlg010": {
         "title_abbrevs": [
-          "Lac."
+          "Lac.",
+          "Const. Lac."
         ],
         "scheme": "chapter.section"
       },
       "urn:cts:greekLit:tlg0032.tlg014": {
         "title_abbrevs": [
-          "Cyn."
+          "Cyn.",
+          "Horse.",
+          "Hunt."
         ],
         "scheme": "chapter.section"
       },
@@ -5367,13 +6272,15 @@
       },
       "urn:cts:greekLit:tlg0032.tlg006": {
         "title_abbrevs": [
-          "An."
+          "An.",
+          "Anab."
         ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:greekLit:tlg0032.tlg008": {
         "title_abbrevs": [
-          "Hier."
+          "Hier.",
+          "Hiero"
         ],
         "scheme": "chapter.section"
       },
@@ -5385,7 +6292,8 @@
       },
       "urn:cts:greekLit:tlg0032.tlg003": {
         "title_abbrevs": [
-          "Oec."
+          "Oec.",
+          "Ec."
         ],
         "scheme": "chapter.section"
       },
@@ -5405,11 +6313,15 @@
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0199.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ep."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:greekLit:tlg0199.tlg002": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Dith.."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:cwkb:781.1795": {
@@ -5465,7 +6377,8 @@
     "works": {
       "urn:cts:greekLit:tlg0006.tlg010": {
         "title_abbrevs": [
-          "Io."
+          "Io.",
+          "Ion"
         ],
         "scheme": "line"
       },
@@ -5477,7 +6390,8 @@
       },
       "urn:cts:greekLit:tlg0006.tlg011": {
         "title_abbrevs": [
-          "Tr."
+          "Tr.",
+          "Tro."
         ],
         "scheme": "line"
       },
@@ -5513,7 +6427,8 @@
       },
       "urn:cts:greekLit:tlg0006.tlg004": {
         "title_abbrevs": [
-          "Heracl."
+          "Heracl.",
+          "Heraclid."
         ],
         "scheme": "line"
       },
@@ -5525,13 +6440,15 @@
       },
       "urn:cts:greekLit:tlg0006.tlg016": {
         "title_abbrevs": [
-          "Or."
+          "Or.",
+          "Orest."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0006.tlg009": {
         "title_abbrevs": [
-          "HF"
+          "HF",
+          "Her."
         ],
         "scheme": "line"
       },
@@ -5543,13 +6460,15 @@
       },
       "urn:cts:greekLit:tlg0006.tlg015": {
         "title_abbrevs": [
-          "Ph."
+          "Ph.",
+          "Phoen."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0006.tlg001": {
         "title_abbrevs": [
-          "Cyc."
+          "Cyc.",
+          "Cycl."
         ],
         "scheme": "line"
       },
@@ -5561,7 +6480,8 @@
       },
       "urn:cts:greekLit:tlg0006.tlg018": {
         "title_abbrevs": [
-          "IA."
+          "IA.",
+          "IA"
         ],
         "scheme": "line"
       },
@@ -5615,6 +6535,20 @@
           "frg."
         ],
         "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0972.phi001f": {
+        "canonical_title": "Fragments",
+        "title_abbrevs": [
+          "Fr."
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0972.phi001p": {
+        "canonical_title": "Poems",
+        "title_abbrevs": [
+          "Poems"
+        ],
+        "scheme": "flat"
       }
     }
   },
@@ -5627,19 +6561,22 @@
       "urn:cts:latinLit:phi0893.phi004": {
         "title_abbrevs": [
           "serm.",
-          "sat."
+          "sat.",
+          "S."
         ],
         "scheme": "book.poem.card"
       },
       "urn:cts:latinLit:phi0893.phi001": {
         "title_abbrevs": [
-          "carm."
+          "carm.",
+          "Od."
         ],
         "scheme": "book.poem.line"
       },
       "urn:cts:latinLit:phi0893.phi006": {
         "title_abbrevs": [
-          "ars"
+          "ars",
+          "Ars"
         ],
         "scheme": "card"
       },
@@ -5664,17 +6601,23 @@
       },
       "urn:cts:latinLit:phi0893.phi003": {
         "canonical_title": "Epodi",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Epod."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:phi0893.phi005": {
         "canonical_title": "Epistulae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ep."
+        ],
         "scheme": "book.poem.line"
       },
       "urn:cts:latinLit:phi0893.phi002": {
         "canonical_title": "Carmen Saeculare",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Carm."
+        ],
         "scheme": "line"
       }
     }
@@ -5700,13 +6643,15 @@
       },
       "urn:cts:latinLit:phi0119.phi004": {
         "title_abbrevs": [
-          "Bacch."
+          "Bacch.",
+          "Bac."
         ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi0119.phi013": {
         "title_abbrevs": [
-          "Most."
+          "Most.",
+          "Mos."
         ],
         "scheme": "line"
       },
@@ -5730,25 +6675,29 @@
       },
       "urn:cts:latinLit:phi0119.phi002": {
         "title_abbrevs": [
-          "Asin."
+          "Asin.",
+          "As."
         ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi0119.phi008": {
         "title_abbrevs": [
-          "Curc."
+          "Curc.",
+          "Cur."
         ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi0119.phi018": {
         "title_abbrevs": [
-          "Stich."
+          "Stich.",
+          "St."
         ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi0119.phi001": {
         "title_abbrevs": [
-          "Amph."
+          "Amph.",
+          "Am."
         ],
         "scheme": "line"
       },
@@ -5777,7 +6726,9 @@
         "scheme": "line"
       },
       "urn:cts:latinLit:phi0119.phi014": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Per."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi0119.phi010": {
@@ -5788,7 +6739,8 @@
       },
       "urn:cts:latinLit:phi0119.phi011": {
         "title_abbrevs": [
-          "Merc."
+          "Merc.",
+          "Mer."
         ],
         "scheme": "line"
       },
@@ -5800,7 +6752,8 @@
       },
       "urn:cts:latinLit:phi0119.phi016": {
         "title_abbrevs": [
-          "Pseud."
+          "Pseud.",
+          "Ps."
         ],
         "scheme": "line"
       },
@@ -6024,23 +6977,27 @@
     "name_abbrevs": [
       "Longin."
     ],
-    "default_work": null,
+    "default_work": "Longin.",
     "works": {
       "urn:cts:greekLit:tlg0560.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Longin."
+        ],
         "scheme": "chapter.section"
       }
     }
   },
   "urn:cts:greekLit:tlg0093": {
     "name_abbrevs": [
-      "Thphr."
+      "Thphr.",
+      "Thphr. Char."
     ],
-    "default_work": null,
+    "default_work": "Thphr. Char.",
     "works": {
       "urn:cts:greekLit:tlg0093.tlg009": {
         "title_abbrevs": [
-          "Char."
+          "Char.",
+          "Thphr. Char."
         ],
         "scheme": "chapter.section"
       },
@@ -6109,13 +7066,15 @@
   "urn:cts:greekLit:tlg0001": {
     "name_abbrevs": [
       "A. R.",
-      "Apollon."
+      "Apollon.",
+      "A. R"
     ],
-    "default_work": null,
+    "default_work": "A. R",
     "works": {
       "urn:cts:greekLit:tlg0001.tlg001": {
         "title_abbrevs": [
-          "AR"
+          "AR",
+          "A. R"
         ],
         "scheme": "book.line"
       },
@@ -6148,7 +7107,8 @@
       },
       "urn:cts:greekLit:tlg0011.tlg001": {
         "title_abbrevs": [
-          "Tr."
+          "Tr.",
+          "Trach."
         ],
         "scheme": "line"
       },
@@ -6166,19 +7126,23 @@
       },
       "urn:cts:greekLit:tlg0011.tlg003": {
         "title_abbrevs": [
-          "Ai."
+          "Ai.",
+          "Aj."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0011.tlg006": {
         "title_abbrevs": [
-          "Ph."
+          "Ph.",
+          "Phil."
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0011.tlg008": {
         "canonical_title": "Ichneutae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ich."
+        ],
         "scheme": "line"
       }
     }
@@ -6191,12 +7155,15 @@
     "works": {
       "urn:cts:greekLit:tlg0005.tlg002": {
         "title_abbrevs": [
-          "epigr."
+          "epigr.",
+          "Ep."
         ],
         "scheme": "poem.line"
       },
       "urn:cts:greekLit:tlg0005.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Id."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:cwkb:1102.3935": {
@@ -6211,159 +7178,216 @@
     "name_abbrevs": [
       "h. Hom.",
       "HH.",
-      "Hom."
+      "Hom.",
+      "HH"
     ],
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0013.tlg009": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "9"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg008": {
         "title_abbrevs": [
-          "h. Mart."
+          "h. Mart.",
+          "8"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg010": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "10"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg017": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "17"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg026": {
         "title_abbrevs": [
-          "h. Bacch."
+          "h. Bacch.",
+          "26"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg029": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "29"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg030": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "30"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg015": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "15"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg004": {
         "title_abbrevs": [
-          "h. Merc."
+          "h. Merc.",
+          "4"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg025": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "25"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg021": {
         "title_abbrevs": [
-          "h. Ap."
+          "h. Ap.",
+          "21"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg033": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "33"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg023": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "23"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg032": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "32"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg014": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "14"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg003": {
         "title_abbrevs": [
-          "h. Ap."
+          "h. Ap.",
+          "3"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg007": {
         "title_abbrevs": [
-          "h. Bacch."
+          "h. Bacch.",
+          "7"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg012": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "12"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg019": {
         "title_abbrevs": [
-          "h. Pan."
+          "h. Pan.",
+          "19"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg020": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "20"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg011": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "11"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg013": {
         "title_abbrevs": [
-          "h. Cer."
+          "h. Cer.",
+          "13"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg018": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "18"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg024": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "24"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg031": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "31"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg005": {
         "title_abbrevs": [
-          "h. Ven."
+          "h. Ven.",
+          "5"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg028": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "28"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "1"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg016": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "16"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg022": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "22"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg006": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "6"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg027": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "27"
+        ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0013.tlg002": {
         "title_abbrevs": [
-          "h. Cer."
+          "h. Cer.",
+          "2"
         ],
         "scheme": "line"
       },
@@ -6387,13 +7411,15 @@
       },
       "urn:cts:greekLit:tlg0020.tlg002": {
         "title_abbrevs": [
-          "Op."
+          "Op.",
+          "WD"
         ],
         "scheme": "line"
       },
       "urn:cts:greekLit:tlg0020.tlg003": {
         "title_abbrevs": [
-          "Sc."
+          "Sc.",
+          "Sh."
         ],
         "scheme": "line"
       },
@@ -6411,10 +7437,12 @@
     "name_abbrevs": [
       "Ath."
     ],
-    "default_work": null,
+    "default_work": "Ath.",
     "works": {
       "urn:cts:greekLit:tlg0008.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ath."
+        ],
         "scheme": "book.chapter"
       },
       "urn:cts:cwkb:1172.8125": {
@@ -6431,10 +7459,12 @@
     "name_abbrevs": [
       "Prop."
     ],
-    "default_work": null,
+    "default_work": "Prop.",
     "works": {
       "urn:cts:latinLit:phi0620.phi001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Prop."
+        ],
         "scheme": "book.poem.line"
       }
     }
@@ -6468,7 +7498,8 @@
     "works": {
       "urn:cts:greekLit:tlg0548.tlg002": {
         "title_abbrevs": [
-          "Apollod. epit."
+          "Apollod. epit.",
+          "Epit"
         ],
         "scheme": "."
       },
@@ -6545,11 +7576,15 @@
     }
   },
   "urn:cts:greekLit:tlg1600": {
-    "name_abbrevs": [],
-    "default_work": null,
+    "name_abbrevs": [
+      "Philostr. Im."
+    ],
+    "default_work": "Philostr. Im.",
     "works": {
       "urn:cts:greekLit:tlg1600.tlg001": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Philostr. Im."
+        ],
         "scheme": "Book.Chapter"
       }
     }
@@ -6564,7 +7599,8 @@
       "urn:cts:latinLit:phi0917.phi001": {
         "title_abbrevs": [
           "Phars.",
-          "Bell. Civ."
+          "Bell. Civ.",
+          "Luc."
         ],
         "scheme": "book.line"
       },
@@ -6579,22 +7615,29 @@
   },
   "urn:cts:greekLit:tlg0081": {
     "name_abbrevs": [
-      "D. H."
+      "D. H.",
+      "D.H",
+      "D.H."
     ],
     "default_work": null,
     "works": {
       "urn:cts:greekLit:tlg0081.tlg011": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Amm. 2"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0081.tlg002": {
         "title_abbrevs": [
-          "Orat. Vett."
+          "Orat. Vett.",
+          "Orat."
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0081.tlg007": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Orat.Vett."
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0081.tlg005": {
@@ -6605,7 +7648,8 @@
       },
       "urn:cts:greekLit:tlg0081.tlg006": {
         "title_abbrevs": [
-          "Dem."
+          "Dem.",
+          "Dem"
         ],
         "scheme": "section"
       },
@@ -6621,12 +7665,15 @@
       },
       "urn:cts:greekLit:tlg0081.tlg003": {
         "title_abbrevs": [
-          "Lys."
+          "Lys.",
+          "Lys"
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0081.tlg012": {
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Comp"
+        ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0081.tlg004": {
@@ -6637,13 +7684,15 @@
       },
       "urn:cts:greekLit:tlg0081.tlg008": {
         "title_abbrevs": [
-          "Amm."
+          "Amm.",
+          "Amm. 1"
         ],
         "scheme": "section"
       },
       "urn:cts:greekLit:tlg0081.tlg015": {
         "title_abbrevs": [
-          "Pomp."
+          "Pomp.",
+          "Pomp"
         ],
         "scheme": "chapter.section"
       },
@@ -37844,13 +38893,16 @@
   "urn:cts:greekLit:tlg0641": {
     "canonical_name": "Xenophon of Ephesus",
     "name_abbrevs": [
-      "X. Eph."
+      "X. Eph.",
+      "X.Eph."
     ],
-    "default_work": null,
+    "default_work": "X.Eph.",
     "works": {
       "urn:cts:greekLit:tlg0641.tlg001": {
         "canonical_title": "Ephesiaca",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "X.Eph."
+        ],
         "scheme": "book.chapter.section"
       }
     }
@@ -37894,22 +38946,30 @@
     "works": {
       "urn:cts:latinLit:phi1014.phi001": {
         "canonical_title": "Controversiae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Con."
+        ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:latinLit:phi1014.phi002": {
         "canonical_title": "Excerpta Controversiae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Exc. Con."
+        ],
         "scheme": "book.chapter"
       },
       "urn:cts:latinLit:phi1014.phi003": {
         "canonical_title": "Suasoriae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Suas."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi1014.phi004": {
         "canonical_title": "Fragmenta",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Eld. Fr."
+        ],
         "scheme": "fragment"
       }
     }
@@ -37963,7 +39023,9 @@
       },
       "urn:cts:latinLit:stoa0275.stoa009": {
         "canonical_title": "Apologeticum",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Apol."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0275.stoa010": {
@@ -38053,7 +39115,9 @@
       },
       "urn:cts:latinLit:stoa0275.stoa027": {
         "canonical_title": "De Spectaculis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Spect."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0275.stoa028": {
@@ -38107,11 +39171,13 @@
     "name_abbrevs": [
       "Mart."
     ],
-    "default_work": null,
+    "default_work": "Mart.",
     "works": {
       "urn:cts:latinLit:phi1294.phi002": {
         "canonical_title": "Epigrammata",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Mart."
+        ],
         "scheme": "book.poem.line"
       },
       "urn:cts:latinLit:phi1294.phi001": {
@@ -38138,13 +39204,16 @@
   "urn:cts:latinLit:phi1035": {
     "canonical_name": "Valerius Flaccus, Gaius",
     "name_abbrevs": [
-      "Val. Fl."
+      "Val. Fl.",
+      "V. Fl."
     ],
-    "default_work": null,
+    "default_work": "V. Fl.",
     "works": {
       "urn:cts:latinLit:phi1035.phi001": {
         "canonical_title": "Argonautica",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "V. Fl."
+        ],
         "scheme": "book.line"
       }
     }
@@ -38154,12 +39223,13 @@
     "name_abbrevs": [
       "Lucr."
     ],
-    "default_work": null,
+    "default_work": "Lucr.",
     "works": {
       "urn:cts:latinLit:phi0550.phi001": {
         "canonical_title": "De Rerum Natura",
         "title_abbrevs": [
-          "Rer. Nat."
+          "Rer. Nat.",
+          "Lucr."
         ],
         "scheme": "book.line"
       }
@@ -38189,73 +39259,100 @@
       "urn:cts:latinLit:phi1017.phi001": {
         "canonical_title": "Hercules Furens",
         "title_abbrevs": [
-          "HF"
+          "HF",
+          "Her. F."
         ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi002": {
         "canonical_title": "Troades Furens",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tro."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi003": {
         "canonical_title": "Phoenissae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Phoen."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi004": {
         "canonical_title": "Medea",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Med."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi005": {
         "canonical_title": "Phaedra",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Phaed."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi006": {
         "canonical_title": "Oedipus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Oed."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi007": {
         "canonical_title": "Agamemnon",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ag."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi008": {
         "canonical_title": "Thyestes",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Thy."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi009": {
         "canonical_title": "Hercules Oetaeus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Her. O."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi010": {
         "canonical_title": "Octavia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Oct."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:phi1017.phi011": {
         "canonical_title": "Apocolocyntosis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Apoc."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi1017.phi013": {
         "canonical_title": "De Beneficiis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ben."
+        ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:latinLit:phi1017.phi014": {
         "canonical_title": "De Clementia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cl."
+        ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:latinLit:phi1017.phi015": {
         "canonical_title": "Epistulae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ep."
+        ],
         "scheme": "letter.section"
       }
     }
@@ -38277,48 +39374,65 @@
       "urn:cts:latinLit:phi0959.phi002": {
         "canonical_title": "Epistulae",
         "title_abbrevs": [
-          "Her."
+          "Her.",
+          "Ep."
         ],
         "scheme": "poem.card"
       },
       "urn:cts:latinLit:phi0959.phi003": {
         "canonical_title": "Medicamina faciei femineae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Med."
+        ],
         "scheme": "card"
       },
       "urn:cts:latinLit:phi0959.phi004": {
         "canonical_title": "Ars Amatoria",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ars."
+        ],
         "scheme": "book.card"
       },
       "urn:cts:latinLit:phi0959.phi005": {
         "canonical_title": "Remedia amoris",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Rem."
+        ],
         "scheme": "card"
       },
       "urn:cts:latinLit:phi0959.phi006": {
         "canonical_title": "Metamorphoses",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Met."
+        ],
         "scheme": "book.card"
       },
       "urn:cts:latinLit:phi0959.phi007": {
         "canonical_title": "Fasti",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Fast."
+        ],
         "scheme": "book.line"
       },
       "urn:cts:latinLit:phi0959.phi008": {
         "canonical_title": "Tristia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tr."
+        ],
         "scheme": "book.poem.line"
       },
       "urn:cts:latinLit:phi0959.phi009": {
         "canonical_title": "Ex Ponto",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Pont."
+        ],
         "scheme": "book.poem.line"
       },
       "urn:cts:latinLit:phi0959.phi010": {
         "canonical_title": "Ibis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ib."
+        ],
         "scheme": "line"
       }
     }
@@ -38346,62 +39460,86 @@
     "works": {
       "urn:cts:latinLit:phi1348.abo011": {
         "canonical_title": "Divus Julius",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Jul."
+        ],
         "scheme": "."
       },
       "urn:cts:latinLit:phi1348.abo012": {
         "canonical_title": "Divus Augustus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Aug."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo013": {
         "canonical_title": "Tiberius",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tib."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo014": {
         "canonical_title": "Caligula",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cal."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo015": {
         "canonical_title": "Divus Claudius",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cl."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo016": {
         "canonical_title": "Nero",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Nero"
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo017": {
         "canonical_title": "Galba",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Gal."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo018": {
         "canonical_title": "Otho",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Otho"
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo019": {
         "canonical_title": "Vitellius",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Vit."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo020": {
         "canonical_title": "Divus Vespasianus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ves."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo021": {
         "canonical_title": "Divus Titus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tit."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi1348.abo022": {
         "canonical_title": "Domitianus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Dom."
+        ],
         "scheme": "chapter"
       }
     }
@@ -38424,13 +39562,16 @@
   "urn:cts:latinLit:stoa0162": {
     "canonical_name": "Jerome, Saint",
     "name_abbrevs": [
-      "Hier."
+      "Hier.",
+      "Jer. Ep."
     ],
-    "default_work": null,
+    "default_work": "Jer. Ep.",
     "works": {
       "urn:cts:latinLit:stoa0162.stoa004": {
         "canonical_title": "Epistolae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Jer. Ep."
+        ],
         "scheme": "letter.section"
       }
     }
@@ -38438,7 +39579,8 @@
   "urn:cts:latinLit:phi0914": {
     "canonical_name": "Titus Livius (Livy)",
     "name_abbrevs": [
-      "Liv."
+      "Liv.",
+      "LIv."
     ],
     "default_work": null,
     "works": {
@@ -38448,6 +39590,333 @@
           "AUC"
         ],
         "scheme": "book.chapter.section"
+      },
+      "urn:cts:latinLit:phi0914.phi00141": {
+        "canonical_title": "Ab Urbe Condita, Book 41",
+        "title_abbrevs": [
+          "41"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00142": {
+        "canonical_title": "Ab Urbe Condita, Book 42",
+        "title_abbrevs": [
+          "42"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00143": {
+        "canonical_title": "Ab Urbe Condita, Book 43",
+        "title_abbrevs": [
+          "43"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00144": {
+        "canonical_title": "Ab Urbe Condita, Book 44",
+        "title_abbrevs": [
+          "44"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00145": {
+        "canonical_title": "Ab Urbe Condita, Book 45",
+        "title_abbrevs": [
+          "45"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00121": {
+        "canonical_title": "The History of Rome, Book 21",
+        "title_abbrevs": [
+          "21"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00122": {
+        "canonical_title": "The History of Rome, Book 22",
+        "title_abbrevs": [
+          "22"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00123": {
+        "canonical_title": "The History of Rome, Book 23",
+        "title_abbrevs": [
+          "23"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00124": {
+        "canonical_title": "The History of Rome, Book 24",
+        "title_abbrevs": [
+          "24"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00125": {
+        "canonical_title": "The History of Rome, Book 25",
+        "title_abbrevs": [
+          "25"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00126": {
+        "canonical_title": "The History of Rome, Book 26",
+        "title_abbrevs": [
+          "26"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00127": {
+        "canonical_title": "The History of Rome, Book 27",
+        "title_abbrevs": [
+          "27"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00128": {
+        "canonical_title": "The History of Rome, Book 28",
+        "title_abbrevs": [
+          "28"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00129": {
+        "canonical_title": "The History of Rome, Book 29",
+        "title_abbrevs": [
+          "29"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00130": {
+        "canonical_title": "The History of Rome, Book 30",
+        "title_abbrevs": [
+          "30"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00131": {
+        "canonical_title": "The History of Rome, Book 31",
+        "title_abbrevs": [
+          "31"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00132": {
+        "canonical_title": "The History of Rome, Book 32",
+        "title_abbrevs": [
+          "32"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00133": {
+        "canonical_title": "The History of Rome, Book 33",
+        "title_abbrevs": [
+          "33"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00134": {
+        "canonical_title": "The History of Rome, Book 34",
+        "title_abbrevs": [
+          "34"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00135": {
+        "canonical_title": "The History of Rome, Book 35",
+        "title_abbrevs": [
+          "35"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00136": {
+        "canonical_title": "The History of Rome, Book 36",
+        "title_abbrevs": [
+          "36"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00137": {
+        "canonical_title": "The History of Rome, Book 37",
+        "title_abbrevs": [
+          "37"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00138": {
+        "canonical_title": "The History of Rome, Book 38",
+        "title_abbrevs": [
+          "38"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00139": {
+        "canonical_title": "The History of Rome, Book 39",
+        "title_abbrevs": [
+          "39"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00140": {
+        "canonical_title": "The History of Rome, Book 40",
+        "title_abbrevs": [
+          "40"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi0011": {
+        "canonical_title": "The History of Rome, Book 1",
+        "title_abbrevs": [
+          "1",
+          "11"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi0012": {
+        "canonical_title": "The History of Rome, Book 2",
+        "title_abbrevs": [
+          "12",
+          "2"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi0013": {
+        "canonical_title": "The History of Rome, Book 3",
+        "title_abbrevs": [
+          "13",
+          "3"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi0014": {
+        "canonical_title": "The History of Rome, Book 4",
+        "title_abbrevs": [
+          "14",
+          "4"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi0015": {
+        "canonical_title": "The History of Rome, Book 5",
+        "title_abbrevs": [
+          "15",
+          "5"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi0016": {
+        "canonical_title": "The History of Rome, Book 6",
+        "title_abbrevs": [
+          "6"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi0017": {
+        "canonical_title": "The History of Rome, Book 7",
+        "title_abbrevs": [
+          "7"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi0018": {
+        "canonical_title": "The History of Rome, Book 8",
+        "title_abbrevs": [
+          "8"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00110": {
+        "canonical_title": "The History of Rome, Book 10",
+        "title_abbrevs": [
+          "10"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00111s": {
+        "canonical_title": "The History of Rome, Book 11, Summary",
+        "title_abbrevs": [
+          "11"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00112s": {
+        "canonical_title": "The History of Rome, Book 12, Summary",
+        "title_abbrevs": [
+          "12"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00113s": {
+        "canonical_title": "The History of Rome, Book 13, Summary",
+        "title_abbrevs": [
+          "13"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00114s": {
+        "canonical_title": "The History of Rome, Book 14, Summary",
+        "title_abbrevs": [
+          "14"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00115s": {
+        "canonical_title": "The History of Rome, Book 15, Summary",
+        "title_abbrevs": [
+          "15"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00116s": {
+        "canonical_title": "The History of Rome, Book 16, Summary",
+        "title_abbrevs": [
+          "16"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00117s": {
+        "canonical_title": "The History of Rome, Book 17, Summary",
+        "title_abbrevs": [
+          "17"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00118s": {
+        "canonical_title": "The History of Rome, Book 18, Summary",
+        "title_abbrevs": [
+          "18"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00119s": {
+        "canonical_title": "The History of Rome, Book 19, Summary",
+        "title_abbrevs": [
+          "19"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi00120s": {
+        "canonical_title": "The History of Rome, Book 20, Summary",
+        "title_abbrevs": [
+          "20"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi0019": {
+        "canonical_title": "The History of Rome, Book 9",
+        "title_abbrevs": [
+          "9"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi0914.phi001fr": {
+        "canonical_title": "Ab urbe condita, fragments",
+        "title_abbrevs": [
+          "Frag."
+        ],
+        "scheme": "flat"
       }
     }
   },
@@ -38469,13 +39938,16 @@
     "canonical_name": "Valerius Maximus",
     "name_abbrevs": [
       "V. Max",
-      "Val. Max."
+      "Val. Max.",
+      "V. Max."
     ],
-    "default_work": null,
+    "default_work": "V. Max.",
     "works": {
       "urn:cts:latinLit:phi1038.phi001": {
         "canonical_title": "Facta et Dicta Memorabilia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "V. Max."
+        ],
         "scheme": "book.chapter.section"
       }
     }
@@ -38489,17 +39961,23 @@
     "works": {
       "urn:cts:latinLit:phi1020.phi001": {
         "canonical_title": "Thebais",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Theb."
+        ],
         "scheme": "book.line"
       },
       "urn:cts:latinLit:phi1020.phi002": {
         "canonical_title": "Silvae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Silv."
+        ],
         "scheme": "poem.book.line"
       },
       "urn:cts:latinLit:phi1020.phi003": {
         "canonical_title": "Achilleis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ach."
+        ],
         "scheme": "book.line"
       }
     }
@@ -38513,52 +39991,72 @@
     "works": {
       "urn:cts:latinLit:stoa0255.stoa004": {
         "canonical_title": "De Brevitate Vitae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Brev. Vit."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0255.stoa006": {
         "canonical_title": "De consolatione ad Helviam",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cons. Helv."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0255.stoa007": {
         "canonical_title": "De consolatione ad Marciam",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cons. Marc."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0255.stoa008": {
         "canonical_title": "De consolatione ad Polybium",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cons. Polyb."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0255.stoa009": {
         "canonical_title": "De Constantia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Const."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0255.stoa010": {
         "canonical_title": "De Ira",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ira"
+        ],
         "scheme": "book.chapter.section"
       },
       "urn:cts:latinLit:stoa0255.stoa011": {
         "canonical_title": "De Otio Sapientis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ot. Sap."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0255.stoa012": {
         "canonical_title": "De Providentia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Prov."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0255.stoa013": {
         "canonical_title": "De Tranquilitate Animi",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tranq."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:stoa0255.stoa014": {
         "canonical_title": "De Vita Beata",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Vit. Beat."
+        ],
         "scheme": "chapter.section"
       }
     }
@@ -38572,127 +40070,177 @@
     "works": {
       "urn:cts:latinLit:phi0588.abo001": {
         "canonical_title": "Miltiades",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Milt."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo002": {
         "canonical_title": "Themistocles",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Them."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo003": {
         "canonical_title": "Aristides",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ar."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo004": {
         "canonical_title": "Pausanias",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Paus."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo005": {
         "canonical_title": "Cimon",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cim."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo006": {
         "canonical_title": "Lysander",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Lys."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo007": {
         "canonical_title": "Alcibiades",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Alc."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo008": {
         "canonical_title": "Thrasybulus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Thr."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo009": {
         "canonical_title": "Conon",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Con."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo010": {
         "canonical_title": "Dion",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Di."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo011": {
         "canonical_title": "Iphicrates",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Iph."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo012": {
         "canonical_title": "Chabrias",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cha."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo013": {
         "canonical_title": "Timotheus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Timoth."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo014": {
         "canonical_title": "Datames",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Dat."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo015": {
         "canonical_title": "Epaminondas",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ep."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo016": {
         "canonical_title": "Pelopidas",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Pel."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo017": {
         "canonical_title": "Agesilaus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ag."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo018": {
         "canonical_title": "Eumenes",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Eum."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo019": {
         "canonical_title": "Phocion",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Phoc."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo020": {
         "canonical_title": "Timoleon",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Timol."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo021": {
         "canonical_title": "De Regibus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Reg."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo022": {
         "canonical_title": "Hamilcar",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ham."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo023": {
         "canonical_title": "Hannibal",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Han."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo024": {
         "canonical_title": "Cato",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ca."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0588.abo025": {
         "canonical_title": "Atticus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Att."
+        ],
         "scheme": "chapter.section"
       }
     }
@@ -38706,47 +40254,65 @@
     "works": {
       "urn:cts:latinLit:stoa0238.stoa001": {
         "canonical_title": "Liber Peristephanon",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Peri."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0238.stoa002": {
         "canonical_title": "Psychomachia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Psych."
+        ],
         "scheme": "section.line"
       },
       "urn:cts:latinLit:stoa0238.stoa003": {
         "canonical_title": "Praefatio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Praef."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0238.stoa004": {
         "canonical_title": "Cathemerina",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cath."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0238.stoa005": {
         "canonical_title": "Apotheosis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Apoth."
+        ],
         "scheme": "section.line"
       },
       "urn:cts:latinLit:stoa0238.stoa006": {
         "canonical_title": "Hamartigenia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Harm."
+        ],
         "scheme": "section.line"
       },
       "urn:cts:latinLit:stoa0238.stoa007": {
         "canonical_title": "Contra Orationem Symmachia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Contr. Sym."
+        ],
         "scheme": "book.section.line"
       },
       "urn:cts:latinLit:stoa0238.stoa008": {
         "canonical_title": "Dittochaeon",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ditto."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0238.stoa009": {
         "canonical_title": "Epilogus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Epil."
+        ],
         "scheme": "line"
       }
     }
@@ -38754,14 +40320,16 @@
   "urn:cts:latinLit:phi0978": {
     "canonical_name": "Pliny, the Elder",
     "name_abbrevs": [
-      "Plin."
+      "Plin.",
+      "Plin. Nat."
     ],
-    "default_work": null,
+    "default_work": "Plin. Nat.",
     "works": {
       "urn:cts:latinLit:phi0978.phi001": {
         "canonical_title": "Naturalis Historia",
         "title_abbrevs": [
-          "NH"
+          "NH",
+          "Plin. Nat."
         ],
         "scheme": "book.chapter"
       }
@@ -38801,13 +40369,16 @@
   "urn:cts:latinLit:phi1221": {
     "canonical_name": "Augustus Emperor of Rome 63 B.C.-14 A.D.",
     "name_abbrevs": [
-      "Aug."
+      "Aug.",
+      "Aug. Anc."
     ],
-    "default_work": null,
+    "default_work": "Aug. Anc.",
     "works": {
       "urn:cts:latinLit:phi1221.phi007": {
         "canonical_title": "Res Gestae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Aug. Anc."
+        ],
         "scheme": "flat"
       }
     }
@@ -38815,13 +40386,16 @@
   "urn:cts:latinLit:phi0845": {
     "canonical_name": "Columella, Lucius Junius Moderatus",
     "name_abbrevs": [
-      "Colum."
+      "Colum.",
+      "Col."
     ],
-    "default_work": null,
+    "default_work": "Col.",
     "works": {
       "urn:cts:latinLit:phi0845.phi002": {
         "canonical_title": "Res Rustica",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Col."
+        ],
         "scheme": "book.chapter.section"
       }
     }
@@ -38835,52 +40409,72 @@
     "works": {
       "urn:cts:latinLit:stoa0045.stoa001": {
         "canonical_title": "De Bissula",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Biss."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa002": {
         "canonical_title": "Caesares",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Caes."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa003": {
         "canonical_title": "Cento Nuptialis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cent. Nupt."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0045.stoa004": {
         "canonical_title": "Commemoratio Professorum Burdigalensium",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Prof."
+        ],
         "scheme": "line.poem"
       },
       "urn:cts:latinLit:stoa0045.stoa005": {
         "canonical_title": "Cupido Cruciatus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cup. Cruc."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0045.stoa006": {
         "canonical_title": "De Herediolo",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Idyll. 3"
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0045.stoa007": {
         "canonical_title": "Eclogarum Liber",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ecl. 13"
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa008": {
         "canonical_title": "Ephemeris",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ephem."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa009": {
         "canonical_title": "Epicedion in Patrem",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Idyll. 2"
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0045.stoa010": {
         "canonical_title": "Epigrammaton Liber",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Epigr."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa011": {
@@ -38900,67 +40494,93 @@
       },
       "urn:cts:latinLit:stoa0045.stoa014": {
         "canonical_title": "Gratiarum Actio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Grat."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:stoa0045.stoa015": {
         "canonical_title": "Griphus Ternarii Numeri",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Griph."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa016": {
         "canonical_title": "Liber Protrepticus ad Nepotem",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Idyll. 4"
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa017": {
         "canonical_title": "[Libri de Fastis] Conclusio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Fast."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0045.stoa018": {
         "canonical_title": "Ludus Septem Sapientum",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Sap."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0045.stoa019": {
         "canonical_title": "Mosella",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Mos."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa020": {
         "canonical_title": "Oratio Versibus Rhopalicis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Orat."
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0045.stoa021": {
         "canonical_title": "Ordo Urbium Nobilium",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Urb."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa022": {
         "canonical_title": "Parentalia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Par."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0045.stoa025": {
         "canonical_title": "Praefatiunculae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Praef."
+        ],
         "scheme": "book.line"
       },
       "urn:cts:latinLit:stoa0045.stoa026": {
         "canonical_title": "Precationes",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Idyll. 8 [or 9]"
+        ],
         "scheme": "book.line"
       },
       "urn:cts:latinLit:stoa0045.stoa027": {
         "canonical_title": "Versus Paschales Prosodic",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Idyll. 1"
+        ],
         "scheme": "line"
       },
       "urn:cts:latinLit:stoa0045.stoa028": {
         "canonical_title": "Technopaegnion",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tech. 8"
+        ],
         "scheme": "poem.line"
       }
     }
@@ -38982,13 +40602,16 @@
   "urn:cts:latinLit:stoa0203": {
     "canonical_name": "Minucius Felix, Marcus",
     "name_abbrevs": [
-      "Min. Fel."
+      "Min. Fel.",
+      "Minuc. Oct."
     ],
-    "default_work": null,
+    "default_work": "Minuc. Oct.",
     "works": {
       "urn:cts:latinLit:stoa0203.stoa001": {
         "canonical_title": "Octavius",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Minuc. Oct."
+        ],
         "scheme": "chapter.section"
       }
     }
@@ -38996,13 +40619,16 @@
   "urn:cts:latinLit:phi1242": {
     "canonical_name": "Florus, Lucius Annaeus",
     "name_abbrevs": [
-      "Flor."
+      "Flor.",
+      "Flor. Epit."
     ],
-    "default_work": null,
+    "default_work": "Flor. Epit.",
     "works": {
       "urn:cts:latinLit:phi1242.phi001": {
         "canonical_title": "Epitome Rerum Romanorum",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Flor. Epit."
+        ],
         "scheme": "book.topic.chapter.section"
       }
     }
@@ -39012,12 +40638,13 @@
     "name_abbrevs": [
       "Juv."
     ],
-    "default_work": null,
+    "default_work": "Juv.",
     "works": {
       "urn:cts:latinLit:phi1276.phi001": {
         "canonical_title": "Saturae ",
         "title_abbrevs": [
-          "Sat."
+          "Sat.",
+          "Juv."
         ],
         "scheme": "poem.line"
       }
@@ -39028,11 +40655,13 @@
     "name_abbrevs": [
       "Harp."
     ],
-    "default_work": null,
+    "default_work": "Harp.",
     "works": {
       "urn:cts:greekLit:tlg1389.tlg001": {
         "canonical_title": "Lexicon in decem oratores Atticos",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Harp."
+        ],
         "scheme": "Entry.Letter"
       }
     }
@@ -39084,8 +40713,101 @@
     "works": {
       "urn:cts:latinLit:phi1002.phi001": {
         "canonical_title": "Institutio Oratoria",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Inst. Pref."
+        ],
         "scheme": "Book.Chapter.Section"
+      },
+      "urn:cts:latinLit:phi1002.phi0011": {
+        "canonical_title": "Institutio Oratoria, Book 1",
+        "title_abbrevs": [
+          "Inst. 1"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi0012": {
+        "canonical_title": "Institutio Oratoria, Book 2",
+        "title_abbrevs": [
+          "Inst. 2"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi0013": {
+        "canonical_title": "Institutio Oratoria, Book 3",
+        "title_abbrevs": [
+          "Inst. 3"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi001p": {
+        "canonical_title": "Institutio Oratoria, Preface",
+        "title_abbrevs": [
+          "Inst. Pref."
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi0014": {
+        "canonical_title": "Institutio Oratoria, Book 4",
+        "title_abbrevs": [
+          "Inst. 4"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi0015": {
+        "canonical_title": "Institutio Oratoria, Book 5",
+        "title_abbrevs": [
+          "Inst. 5"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi0016": {
+        "canonical_title": "Institutio Oratoria, Book 6",
+        "title_abbrevs": [
+          "Inst. 6"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi0017": {
+        "canonical_title": "Institutio Oratoria, Book 7",
+        "title_abbrevs": [
+          "Inst. 7"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi0018": {
+        "canonical_title": "Institutio Oratoria, Book 8",
+        "title_abbrevs": [
+          "Inst. 8"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi0019": {
+        "canonical_title": "Institutio Oratoria, Book 9",
+        "title_abbrevs": [
+          "Inst. 9"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi00110": {
+        "canonical_title": "Institutio Oratoria, Book 10",
+        "title_abbrevs": [
+          "Inst. 10"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi00111": {
+        "canonical_title": "Institutio Oratoria, Book 11",
+        "title_abbrevs": [
+          "Inst. 11"
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi1002.phi00112": {
+        "canonical_title": "Institutio Oratoria, Book 12",
+        "title_abbrevs": [
+          "Inst. 12"
+        ],
+        "scheme": "flat"
       }
     }
   },
@@ -39094,11 +40816,13 @@
     "name_abbrevs": [
       "Curt."
     ],
-    "default_work": null,
+    "default_work": "Curt.",
     "works": {
       "urn:cts:latinLit:phi0860.phi001": {
         "canonical_title": "Historiarum Alexandri Magni",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Curt."
+        ],
         "scheme": "book.chapter.section"
       }
     }
@@ -39106,13 +40830,16 @@
   "urn:cts:latinLit:phi0478": {
     "canonical_name": "Quintus Tullius Cicero",
     "name_abbrevs": [
-      "Q. Cic."
+      "Q. Cic.",
+      "Q. Cic. Pet."
     ],
-    "default_work": null,
+    "default_work": "Q. Cic. Pet.",
     "works": {
       "urn:cts:latinLit:phi0478.phi003": {
         "canonical_title": "Commentariolum Petitionis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Q. Cic. Pet."
+        ],
         "scheme": "section"
       }
     }
@@ -39120,14 +40847,16 @@
   "urn:cts:latinLit:phi1318": {
     "canonical_name": "Pliny, the Younger",
     "name_abbrevs": [
-      "Plin. Min."
+      "Plin. Min.",
+      "Plin. Ep."
     ],
-    "default_work": null,
+    "default_work": "Plin. Ep.",
     "works": {
       "urn:cts:latinLit:phi1318.phi001": {
         "canonical_title": "Epistulae",
         "title_abbrevs": [
-          "Ep."
+          "Ep.",
+          "Plin. Ep."
         ],
         "scheme": "book.letter.section"
       }
@@ -39138,11 +40867,13 @@
     "name_abbrevs": [
       "Pers."
     ],
-    "default_work": null,
+    "default_work": "Pers.",
     "works": {
       "urn:cts:latinLit:phi0969.phi001": {
         "canonical_title": "Saturae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Pers."
+        ],
         "scheme": "poem.line"
       }
     }
@@ -39175,7 +40906,9 @@
       },
       "urn:cts:latinLit:stoa0058.stoa003": {
         "canonical_title": "Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substantialia Bona",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Duab. Nat."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:stoa0058.stoa006": {
@@ -39247,11 +40980,13 @@
     "name_abbrevs": [
       "Claud."
     ],
-    "default_work": null,
+    "default_work": "Claud.",
     "works": {
       "urn:cts:latinLit:stoa0089.stoa001": {
         "canonical_title": "Carminum minorum corpusculum",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Claud."
+        ],
         "scheme": "poem.line"
       },
       "urn:cts:latinLit:stoa0089.stoa002": {
@@ -39344,302 +41079,422 @@
     "works": {
       "urn:cts:latinLit:phi0474.phi001": {
         "canonical_title": "Pro P. Quinctio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Quinct."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi002": {
         "canonical_title": "Pro S. Roscio Amerino",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "S. Rosc."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi003": {
         "canonical_title": "Pro Q. Roscio Comoedo",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Q. Rosc."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi004": {
         "canonical_title": "Divinatio in Q. Caecilium",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Div. Caec."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi005": {
         "canonical_title": "In C. Verrem",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ver."
+        ],
         "scheme": "actio.book.section"
       },
       "urn:cts:latinLit:phi0474.phi006": {
         "canonical_title": "Pro M. Tullio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tul."
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi0474.phi007": {
         "canonical_title": "Pro Fonteio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Font."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi008": {
         "canonical_title": "Pro A. Caecina",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Caec."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi009": {
         "canonical_title": "De Imperio Cn. Pompei Ad Quirites",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Man."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi010": {
         "canonical_title": "Pro A. Cluentio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Clu."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi011": {
         "canonical_title": "De Lege Agraria",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Agr."
+        ],
         "scheme": "chapter.section"
       },
       "urn:cts:latinLit:phi0474.phi012": {
         "canonical_title": "Pro C. Rabirio Perduellionis Reo Ad Quirites",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Rab. Perd."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi013": {
         "canonical_title": "In Catilinam",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Catil."
+        ],
         "scheme": "speech.section"
       },
       "urn:cts:latinLit:phi0474.phi014": {
         "canonical_title": "Pro L. Murena",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Mur."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi015": {
         "canonical_title": "Pro P. Sulla",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Sul."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi016": {
         "canonical_title": "Pro Archia Poeta",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Arch."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi017": {
         "canonical_title": "Pro L. Flacco",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Flac."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi018": {
         "canonical_title": "Cum populo gratias egit",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Red. Pop."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi019": {
         "canonical_title": "Cum Senatui gratias egit",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Red. Sen."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi020": {
         "canonical_title": "De domo sua ad pontifices",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Dom."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi021": {
         "canonical_title": "De haruspicum responso in P. Clodium",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Har."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi022": {
         "canonical_title": "Pro P. Sestio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Sest."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi023": {
         "canonical_title": "Against Vatinius",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Vat."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi024": {
         "canonical_title": "Pro M. Caelio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cael."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi025": {
         "canonical_title": "De provinciis consularibus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Prov."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi026": {
         "canonical_title": "Pro L. Cornelio Balbos",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Balb."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi027": {
         "canonical_title": "In L. Calpurnium Pisonem",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Pis."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi028": {
         "canonical_title": "Pro Cn. Plancio",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Planc."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi029": {
         "canonical_title": "Pro M. Scauro",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Scaur."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi030": {
         "canonical_title": "Pro C. Rabirio Postumo",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Rab. Post."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi031": {
         "canonical_title": "Pro T. Annio Milone",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Mil."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi032": {
         "canonical_title": "Pro M. Marcello",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Marc."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi033": {
         "canonical_title": "Pro Q. Ligario",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Lig."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi034": {
         "canonical_title": "Pro Rege Deiotaro",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Deiot."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi035": {
         "canonical_title": "Philippicae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Phil."
+        ],
         "scheme": "speech.section"
       },
       "urn:cts:latinLit:phi0474.phi036": {
         "canonical_title": "De Inventione",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Inv."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi037": {
         "canonical_title": "On Oratory",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "de Orat."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi038": {
         "canonical_title": "Partitiones Oratoriae",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Part."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi039": {
         "canonical_title": "Brutus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Brut."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi040": {
         "canonical_title": "Orator",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Orat."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi041": {
         "canonical_title": "De Optimo Genere Oratorum",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Opt. Gen."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi042": {
         "canonical_title": "Topica",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Top."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi043": {
         "canonical_title": "De Republica",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Rep."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi044": {
         "canonical_title": "De Legibus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Leg."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi045": {
         "canonical_title": "Academica",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Ac."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi046": {
         "canonical_title": "Lucullus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Luc."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi047": {
         "canonical_title": "Paradoxa Stoicorum",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Parad."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi048": {
         "canonical_title": "de Finibus Bonorum et Malorum",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Fin."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi049": {
         "canonical_title": "Tusculanae Disputationes",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tusc."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi050": {
         "canonical_title": "de Natura Deorum",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "N.D."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi051": {
         "canonical_title": "De Senectute",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Sen."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi052": {
         "canonical_title": "De Amicitia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Amic."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi0474.phi053": {
         "canonical_title": "De Divinatione",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Div."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi054": {
         "canonical_title": "De Fato",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Fat."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi055": {
         "canonical_title": "De Officiis",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Off."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi056": {
         "canonical_title": "Letters to his Friends",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Fam."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi057": {
         "canonical_title": "Letters to Atticus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Att."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi058": {
         "canonical_title": "Letters to his brother Quintus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Q. fr."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi059": {
         "canonical_title": "Letters to Brutus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "ad Brut."
+        ],
         "scheme": "flat"
       },
       "urn:cts:latinLit:phi0474.phi072": {
         "canonical_title": "Timaeus",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Tim."
+        ],
         "scheme": "flat"
       }
     }
@@ -39647,18 +41502,23 @@
   "urn:cts:latinLit:phi2331": {
     "canonical_name": "Scriptores Historiae Augustae",
     "name_abbrevs": [
-      "SHA"
+      "SHA",
+      "Ael."
     ],
     "default_work": null,
     "works": {
       "urn:cts:latinLit:phi2331.phi001": {
         "canonical_title": "De Vita Hadriani",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Sp. Had"
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi2331.phi002": {
         "canonical_title": "Helius",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Sp. Hel"
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi2331.phi003": {
@@ -39713,7 +41573,9 @@
       },
       "urn:cts:latinLit:phi2331.phi013": {
         "canonical_title": "Antoninus Caracalla",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Sp. Car"
+        ],
         "scheme": "chapter"
       },
       "urn:cts:latinLit:phi2331.phi014": {
@@ -39812,17 +41674,23 @@
     "works": {
       "urn:cts:latinLit:phi1212.phi001": {
         "canonical_title": "Apologia",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Apol."
+        ],
         "scheme": "section"
       },
       "urn:cts:latinLit:phi1212.phi002": {
         "canonical_title": "Metamorphoses",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Met."
+        ],
         "scheme": "book.chapter"
       },
       "urn:cts:latinLit:phi1212.phi003": {
         "canonical_title": "Florida",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Fl."
+        ],
         "scheme": "chapter"
       }
     }
@@ -39830,13 +41698,16 @@
   "urn:cts:greekLit:tlg0535": {
     "canonical_name": "Demades",
     "name_abbrevs": [
-      "Demad."
+      "Demad.",
+      "Demad. 1"
     ],
-    "default_work": null,
+    "default_work": "Demad. 1",
     "works": {
       "urn:cts:greekLit:tlg0535.tlg001": {
         "canonical_title": "On the Twelve Years",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Demad. 1"
+        ],
         "scheme": "section"
       }
     }
@@ -39846,11 +41717,13 @@
     "name_abbrevs": [
       "Cels."
     ],
-    "default_work": null,
+    "default_work": "Cels.",
     "works": {
       "urn:cts:latinLit:phi0836.phi002": {
         "canonical_title": "De Medicina",
-        "title_abbrevs": [],
+        "title_abbrevs": [
+          "Cels."
+        ],
         "scheme": "book.chapter"
       }
     }
@@ -41096,7 +42969,29 @@
       "Serv."
     ],
     "default_work": null,
-    "works": {}
+    "works": {
+      "urn:cts:latinLit:phi2349.phi005": {
+        "canonical_title": "Commentary on the Aeneid of Vergil",
+        "title_abbrevs": [
+          "A."
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi2349.phi006": {
+        "canonical_title": "Commentary on the Eclogues of Vergil",
+        "title_abbrevs": [
+          "Ecl."
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:phi2349.phi007": {
+        "canonical_title": "Commentary on the Georgics of Vergil",
+        "title_abbrevs": [
+          "G."
+        ],
+        "scheme": "flat"
+      }
+    }
   },
   "urn:cts:latinLit:phi2806": {
     "canonical_name": "Justinianus",
@@ -41193,5 +43088,44 @@
     ],
     "default_work": null,
     "works": {}
+  },
+  "urn:cts:latinLit:stoa0040": {
+    "canonical_name": "Augustine",
+    "name_abbrevs": [
+      "August. Ep."
+    ],
+    "default_work": "August. Ep.",
+    "works": {
+      "urn:cts:latinLit:stoa0040.stoa011": {
+        "canonical_title": "Epistulae. Selections.",
+        "title_abbrevs": [
+          "August. Ep."
+        ],
+        "scheme": "flat"
+      }
+    }
+  },
+  "urn:cts:latinLit:stoa0261": {
+    "canonical_name": "Sidonius Apollinaris",
+    "name_abbrevs": [
+      "Sid."
+    ],
+    "default_work": null,
+    "works": {
+      "urn:cts:latinLit:stoa0261.stoa0001": {
+        "canonical_title": "Carmina",
+        "title_abbrevs": [
+          "Carm."
+        ],
+        "scheme": "flat"
+      },
+      "urn:cts:latinLit:stoa0261.stoa0002": {
+        "canonical_title": "Epistulae, Books I-IX",
+        "title_abbrevs": [
+          "Ep."
+        ],
+        "scheme": "flat"
+      }
+    }
   }
 }
